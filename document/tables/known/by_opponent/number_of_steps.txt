@@ -1,0 +1,22 @@
+Number of Steps
+Method                    Boulware-Boulware  Boulware-Conceder  Boulware-Linear  Boulware-Atlas3  Conceder-Conceder
+------------------------  -----------------  -----------------  ---------------  ---------------  -----------------
+Transformer-base_general  70.32              62.60              64.94            64.63            8.12             
+Transformer-base_expert   66.20              39.84              54.70            53.47            4.06             
+MiPN-base_general         73.76              42.87              61.22            61.85            8.67             
+MiPN-base_expert          72.94              56.97              62.95            63.11            10.82            
+RLBOA-base_general        66.28              36.21              54.86            55.74            7.70             
+RLBOA-base_expert         73.91              36.99              58.62            62.44            11.34            
+α-Nego-base_general       75.85              52.42              66.44            67.88            7.88             
+α-Nego-base_expert        67.10              46.12              51.45            62.93            7.10             
+
+Method                    Conceder-Linear  Conceder-Atlas3  Linear-Linear  Linear-Atlas3  Atlas3-Atlas3
+------------------------  ---------------  ---------------  -------------  -------------  -------------
+Transformer-base_general  27.54            32.73            40.80          41.06          44.15        
+Transformer-base_expert   14.78            19.75            29.39          32.67          34.84        
+MiPN-base_general         18.09            21.94            33.86          34.33          39.00        
+MiPN-base_expert          24.31            27.75            41.49          39.20          42.91        
+RLBOA-base_general        17.33            22.89            31.00          34.36          37.12        
+RLBOA-base_expert         21.49            24.62            34.39          38.87          42.48        
+α-Nego-base_general       23.79            30.39            34.18          41.23          40.65        
+α-Nego-base_expert        27.89            31.24            33.34          40.29          33.77        

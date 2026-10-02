@@ -1,0 +1,11 @@
+Number of Steps
+Method                    Laptop  ItexvsCypress  IS_BT_Acquisition  Grocery  thompson  Car    EnergySmall_A  Average
+------------------------  ------  -------------  -----------------  -------  --------  -----  -------------  -------
+Transformer-base_general  44.52   48.96          42.61              48.29    47.23     38.63  49.59          45.69  
+Transformer-base_expert   28.37   37.00          23.18              30.43    43.58     35.13  47.10          34.97  
+MiPN-base_general         35.68   47.72          35.75              41.13    41.06     34.39  41.17          39.56  
+MiPN-base_expert          43.50   51.19          39.45              44.46    52.46     31.26  47.40          44.25  
+RLBOA-base_general        37.21   35.02          30.70              34.89    46.73     29.53  40.36          36.35  
+RLBOA-base_expert         34.58   43.04          29.73              35.50    48.47     40.42  51.87          40.51  
+α-Nego-base_general       35.80   51.93          28.36              39.29    49.28     46.21  57.63          44.07  
+α-Nego-base_expert        42.49   31.59          26.85              26.41    50.82     47.54  55.15          40.12  

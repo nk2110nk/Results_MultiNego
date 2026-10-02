@@ -1,0 +1,183 @@
+Individual Utility
+Method                    Boulware-Boulware  Boulware-Conceder  Boulware-Linear  Boulware-Atlas3  Conceder-Conceder
+------------------------  -----------------  -----------------  ---------------  ---------------  -----------------
+Transformer-base_general  0.556              0.570              0.574            0.574            0.580            
+Transformer-base_expert   N/A                N/A                N/A              N/A              N/A              
+MiPN-base_general         0.381              0.425              0.485            0.485            0.637            
+MiPN-base_expert          N/A                N/A                N/A              N/A              N/A              
+RLBOA-base_general        0.514              0.532              0.590            0.533            0.685            
+RLBOA-base_expert         N/A                N/A                N/A              N/A              N/A              
+α-Nego-base_general       0.497              0.559              0.574            0.577            0.758            
+α-Nego-base_expert        N/A                N/A                N/A              N/A              N/A              
+
+Method                    Conceder-Linear  Conceder-Atlas3  Linear-Linear  Linear-Atlas3  Atlas3-Atlas3
+------------------------  ---------------  ---------------  -------------  -------------  -------------
+Transformer-base_general  0.556            0.571            0.579          0.572          0.587        
+Transformer-base_expert   N/A              N/A              N/A            N/A            N/A          
+MiPN-base_general         0.566            0.547            0.592          0.597          0.628        
+MiPN-base_expert          N/A              N/A              N/A            N/A            N/A          
+RLBOA-base_general        0.644            0.634            0.671          0.724          0.736        
+RLBOA-base_expert         N/A              N/A              N/A            N/A            N/A          
+α-Nego-base_general       0.617            0.586            0.666          0.650          0.603        
+α-Nego-base_expert        N/A              N/A              N/A            N/A            N/A          
+
+Opponent 1 Utility
+Method                    Boulware-Boulware  Boulware-Conceder  Boulware-Linear  Boulware-Atlas3  Conceder-Conceder
+------------------------  -----------------  -----------------  ---------------  ---------------  -----------------
+Transformer-base_general  0.649              0.733              0.726            0.728            0.670            
+Transformer-base_expert   N/A                N/A                N/A              N/A              N/A              
+MiPN-base_general         0.451              0.865              0.799            0.713            0.679            
+MiPN-base_expert          N/A                N/A                N/A              N/A              N/A              
+RLBOA-base_general        0.513              0.966              0.858            0.681            0.646            
+RLBOA-base_expert         N/A                N/A                N/A              N/A              N/A              
+α-Nego-base_general       0.571              0.790              0.880            0.750            0.651            
+α-Nego-base_expert        N/A                N/A                N/A              N/A              N/A              
+
+Method                    Conceder-Linear  Conceder-Atlas3  Linear-Linear  Linear-Atlas3  Atlas3-Atlas3
+------------------------  ---------------  ---------------  -------------  -------------  -------------
+Transformer-base_general  0.604            0.612            0.696          0.709          0.628        
+Transformer-base_expert   N/A              N/A              N/A            N/A            N/A          
+MiPN-base_general         0.575            0.530            0.696          0.692          0.601        
+MiPN-base_expert          N/A              N/A              N/A            N/A            N/A          
+RLBOA-base_general        0.571            0.513            0.682          0.629          0.609        
+RLBOA-base_expert         N/A              N/A              N/A            N/A            N/A          
+α-Nego-base_general       0.651            0.606            0.728          0.717          0.672        
+α-Nego-base_expert        N/A              N/A              N/A            N/A            N/A          
+
+Opponent 2 Utility
+Method                    Boulware-Boulware  Boulware-Conceder  Boulware-Linear  Boulware-Atlas3  Conceder-Conceder
+------------------------  -----------------  -----------------  ---------------  ---------------  -----------------
+Transformer-base_general  0.625              0.552              0.576            0.558            0.651            
+Transformer-base_expert   N/A                N/A                N/A              N/A              N/A              
+MiPN-base_general         0.465              0.407              0.500            0.481            0.648            
+MiPN-base_expert          N/A                N/A                N/A              N/A              N/A              
+RLBOA-base_general        0.519              0.509              0.560            0.477            0.639            
+RLBOA-base_expert         N/A                N/A                N/A              N/A              N/A              
+α-Nego-base_general       0.551              0.436              0.480            0.472            0.619            
+α-Nego-base_expert        N/A                N/A                N/A              N/A              N/A              
+
+Method                    Conceder-Linear  Conceder-Atlas3  Linear-Linear  Linear-Atlas3  Atlas3-Atlas3
+------------------------  ---------------  ---------------  -------------  -------------  -------------
+Transformer-base_general  0.758            0.675            0.682          0.609          0.621        
+Transformer-base_expert   N/A              N/A              N/A            N/A            N/A          
+MiPN-base_general         0.867            0.879            0.705          0.659          0.762        
+MiPN-base_expert          N/A              N/A              N/A            N/A            N/A          
+RLBOA-base_general        0.853            0.893            0.754          0.694          0.768        
+RLBOA-base_expert         N/A              N/A              N/A            N/A            N/A          
+α-Nego-base_general       0.647            0.626            0.630          0.529          0.584        
+α-Nego-base_expert        N/A              N/A              N/A            N/A            N/A          
+
+Social Welfare
+Method                    Boulware-Boulware  Boulware-Conceder  Boulware-Linear  Boulware-Atlas3  Conceder-Conceder
+------------------------  -----------------  -----------------  ---------------  ---------------  -----------------
+Transformer-base_general  1.830              1.854              1.875            1.861            1.901            
+Transformer-base_expert   N/A                N/A                N/A              N/A              N/A              
+MiPN-base_general         1.297              1.697              1.784            1.678            1.965            
+MiPN-base_expert          N/A                N/A                N/A              N/A              N/A              
+RLBOA-base_general        1.545              2.007              2.008            1.692            1.970            
+RLBOA-base_expert         N/A                N/A                N/A              N/A              N/A              
+α-Nego-base_general       1.619              1.784              1.934            1.799            2.028            
+α-Nego-base_expert        N/A                N/A                N/A              N/A              N/A              
+
+Method                    Conceder-Linear  Conceder-Atlas3  Linear-Linear  Linear-Atlas3  Atlas3-Atlas3
+------------------------  ---------------  ---------------  -------------  -------------  -------------
+Transformer-base_general  1.918            1.858            1.957          1.890          1.837        
+Transformer-base_expert   N/A              N/A              N/A            N/A            N/A          
+MiPN-base_general         2.008            1.956            1.994          1.948          1.991        
+MiPN-base_expert          N/A              N/A              N/A            N/A            N/A          
+RLBOA-base_general        2.067            2.041            2.107          2.047          2.112        
+RLBOA-base_expert         N/A              N/A              N/A            N/A            N/A          
+α-Nego-base_general       1.915            1.817            2.024          1.897          1.858        
+α-Nego-base_expert        N/A              N/A              N/A            N/A            N/A          
+
+Nash Product
+Method                    Boulware-Boulware  Boulware-Conceder  Boulware-Linear  Boulware-Atlas3  Conceder-Conceder
+------------------------  -----------------  -----------------  ---------------  ---------------  -----------------
+Transformer-base_general  0.269              0.255              0.265            0.259            0.269            
+Transformer-base_expert   N/A                N/A                N/A              N/A              N/A              
+MiPN-base_general         0.210              0.200              0.265            0.245            0.303            
+MiPN-base_expert          N/A                N/A                N/A              N/A              N/A              
+RLBOA-base_general        0.286              0.287              0.329            0.299            0.294            
+RLBOA-base_expert         N/A                N/A                N/A              N/A              N/A              
+α-Nego-base_general       0.250              0.191              0.246            0.233            0.308            
+α-Nego-base_expert        N/A                N/A                N/A              N/A              N/A              
+
+Method                    Conceder-Linear  Conceder-Atlas3  Linear-Linear  Linear-Atlas3  Atlas3-Atlas3
+------------------------  ---------------  ---------------  -------------  -------------  -------------
+Transformer-base_general  0.279            0.263            0.301          0.277          0.260        
+Transformer-base_expert   N/A              N/A              N/A            N/A            N/A          
+MiPN-base_general         0.312            0.272            0.319          0.322          0.321        
+MiPN-base_expert          N/A              N/A              N/A            N/A            N/A          
+RLBOA-base_general        0.337            0.309            0.379          0.366          0.373        
+RLBOA-base_expert         N/A              N/A              N/A            N/A            N/A          
+α-Nego-base_general       0.260            0.202            0.320          0.245          0.226        
+α-Nego-base_expert        N/A              N/A              N/A            N/A            N/A          
+
+Number of Steps
+Method                    Boulware-Boulware  Boulware-Conceder  Boulware-Linear  Boulware-Atlas3  Conceder-Conceder
+------------------------  -----------------  -----------------  ---------------  ---------------  -----------------
+Transformer-base_general  71.47              66.08              66.94            66.47            8.43             
+Transformer-base_expert   N/A                N/A                N/A              N/A              N/A              
+MiPN-base_general         76.91              44.06              62.24            67.33            7.59             
+MiPN-base_expert          N/A                N/A                N/A              N/A              N/A              
+RLBOA-base_general        76.36              41.39              58.37            63.33            8.20             
+RLBOA-base_expert         N/A                N/A                N/A              N/A              N/A              
+α-Nego-base_general       76.94              55.95              67.02            71.78            7.74             
+α-Nego-base_expert        N/A                N/A                N/A              N/A              N/A              
+
+Method                    Conceder-Linear  Conceder-Atlas3  Linear-Linear  Linear-Atlas3  Atlas3-Atlas3
+------------------------  ---------------  ---------------  -------------  -------------  -------------
+Transformer-base_general  31.24            37.69            43.05          42.65          44.83        
+Transformer-base_expert   N/A              N/A              N/A            N/A            N/A          
+MiPN-base_general         17.45            22.70            37.84          36.68          39.25        
+MiPN-base_expert          N/A              N/A              N/A            N/A            N/A          
+RLBOA-base_general        20.11            24.15            36.87          39.92          40.74        
+RLBOA-base_expert         N/A              N/A              N/A            N/A            N/A          
+α-Nego-base_general       40.59            40.21            43.11          44.50          46.86        
+α-Nego-base_expert        N/A              N/A              N/A            N/A            N/A          
+
+Step Efficiency
+Method                    Boulware-Boulware  Boulware-Conceder  Boulware-Linear  Boulware-Atlas3  Conceder-Conceder
+------------------------  -----------------  -----------------  ---------------  ---------------  -----------------
+Transformer-base_general  0.008              0.009              0.009            0.009            0.102            
+Transformer-base_expert   N/A                N/A                N/A              N/A              N/A              
+MiPN-base_general         0.005              0.021              0.012            0.011            0.120            
+MiPN-base_expert          N/A                N/A                N/A              N/A              N/A              
+RLBOA-base_general        0.007              0.044              0.017            0.014            0.115            
+RLBOA-base_expert         N/A                N/A                N/A              N/A              N/A              
+α-Nego-base_general       0.007              0.013              0.009            0.008            0.110            
+α-Nego-base_expert        N/A                N/A                N/A              N/A              N/A              
+
+Method                    Conceder-Linear  Conceder-Atlas3  Linear-Linear  Linear-Atlas3  Atlas3-Atlas3
+------------------------  ---------------  ---------------  -------------  -------------  -------------
+Transformer-base_general  0.025            0.020            0.016          0.014          0.014        
+Transformer-base_expert   N/A              N/A              N/A            N/A            N/A          
+MiPN-base_general         0.053            0.041            0.021          0.023          0.024        
+MiPN-base_expert          N/A              N/A              N/A            N/A            N/A          
+RLBOA-base_general        0.053            0.045            0.028          0.027          0.025        
+RLBOA-base_expert         N/A              N/A              N/A            N/A            N/A          
+α-Nego-base_general       0.016            0.015            0.018          0.015          0.013        
+α-Nego-base_expert        N/A              N/A              N/A            N/A            N/A          
+
+Agreement Rate
+Method                    Boulware-Boulware  Boulware-Conceder  Boulware-Linear  Boulware-Atlas3  Conceder-Conceder
+------------------------  -----------------  -----------------  ---------------  ---------------  -----------------
+Transformer-base_general  95.4%              99.4%              99.5%            99.6%            100.0%           
+Transformer-base_expert   N/A                N/A                N/A              N/A              N/A              
+MiPN-base_general         65.1%              90.3%              88.9%            85.0%            100.0%           
+MiPN-base_expert          N/A                N/A                N/A              N/A              N/A              
+RLBOA-base_general        72.8%              99.8%              95.5%            79.7%            100.0%           
+RLBOA-base_expert         N/A                N/A                N/A              N/A              N/A              
+α-Nego-base_general       84.3%              99.3%              100.0%           93.7%            100.0%           
+α-Nego-base_expert        N/A                N/A                N/A              N/A              N/A              
+
+Method                    Conceder-Linear  Conceder-Atlas3  Linear-Linear  Linear-Atlas3  Atlas3-Atlas3
+------------------------  ---------------  ---------------  -------------  -------------  -------------
+Transformer-base_general  100.0%           100.0%           100.0%         100.0%         100.0%       
+Transformer-base_expert   N/A              N/A              N/A            N/A            N/A          
+MiPN-base_general         100.0%           100.0%           100.0%         100.0%         100.0%       
+MiPN-base_expert          N/A              N/A              N/A            N/A            N/A          
+RLBOA-base_general        100.0%           100.0%           100.0%         99.5%          100.0%       
+RLBOA-base_expert         N/A              N/A              N/A            N/A            N/A          
+α-Nego-base_general       100.0%           100.0%           100.0%         100.0%         100.0%       
+α-Nego-base_expert        N/A              N/A              N/A            N/A            N/A          

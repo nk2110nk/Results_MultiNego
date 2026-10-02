@@ -1,0 +1,22 @@
+Social Welfare
+Method                    Boulware-Boulware  Boulware-Conceder  Boulware-Linear  Boulware-Atlas3  Conceder-Conceder
+------------------------  -----------------  -----------------  ---------------  ---------------  -----------------
+Transformer-base_general  1.830              1.854              1.875            1.861            1.901            
+Transformer-base_expert   N/A                N/A                N/A              N/A              N/A              
+MiPN-base_general         1.297              1.697              1.784            1.678            1.965            
+MiPN-base_expert          N/A                N/A                N/A              N/A              N/A              
+RLBOA-base_general        1.545              2.007              2.008            1.692            1.970            
+RLBOA-base_expert         N/A                N/A                N/A              N/A              N/A              
+α-Nego-base_general       1.619              1.784              1.934            1.799            2.028            
+α-Nego-base_expert        N/A                N/A                N/A              N/A              N/A              
+
+Method                    Conceder-Linear  Conceder-Atlas3  Linear-Linear  Linear-Atlas3  Atlas3-Atlas3
+------------------------  ---------------  ---------------  -------------  -------------  -------------
+Transformer-base_general  1.918            1.858            1.957          1.890          1.837        
+Transformer-base_expert   N/A              N/A              N/A            N/A            N/A          
+MiPN-base_general         2.008            1.956            1.994          1.948          1.991        
+MiPN-base_expert          N/A              N/A              N/A            N/A            N/A          
+RLBOA-base_general        2.067            2.041            2.107          2.047          2.112        
+RLBOA-base_expert         N/A              N/A              N/A            N/A            N/A          
+α-Nego-base_general       1.915            1.817            2.024          1.897          1.858        
+α-Nego-base_expert        N/A              N/A              N/A            N/A            N/A          

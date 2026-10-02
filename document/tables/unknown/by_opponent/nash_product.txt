@@ -1,0 +1,22 @@
+Nash Product
+Method                    Boulware-Boulware  Boulware-Conceder  Boulware-Linear  Boulware-Atlas3  Conceder-Conceder
+------------------------  -----------------  -----------------  ---------------  ---------------  -----------------
+Transformer-base_general  0.269              0.255              0.265            0.259            0.269            
+Transformer-base_expert   N/A                N/A                N/A              N/A              N/A              
+MiPN-base_general         0.210              0.200              0.265            0.245            0.303            
+MiPN-base_expert          N/A                N/A                N/A              N/A              N/A              
+RLBOA-base_general        0.286              0.287              0.329            0.299            0.294            
+RLBOA-base_expert         N/A                N/A                N/A              N/A              N/A              
+α-Nego-base_general       0.250              0.191              0.246            0.233            0.308            
+α-Nego-base_expert        N/A                N/A                N/A              N/A              N/A              
+
+Method                    Conceder-Linear  Conceder-Atlas3  Linear-Linear  Linear-Atlas3  Atlas3-Atlas3
+------------------------  ---------------  ---------------  -------------  -------------  -------------
+Transformer-base_general  0.279            0.263            0.301          0.277          0.260        
+Transformer-base_expert   N/A              N/A              N/A            N/A            N/A          
+MiPN-base_general         0.312            0.272            0.319          0.322          0.321        
+MiPN-base_expert          N/A              N/A              N/A            N/A            N/A          
+RLBOA-base_general        0.337            0.309            0.379          0.366          0.373        
+RLBOA-base_expert         N/A              N/A              N/A            N/A            N/A          
+α-Nego-base_general       0.260            0.202            0.320          0.245          0.226        
+α-Nego-base_expert        N/A              N/A              N/A            N/A            N/A          

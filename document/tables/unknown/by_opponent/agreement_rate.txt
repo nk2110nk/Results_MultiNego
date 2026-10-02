@@ -1,0 +1,22 @@
+Agreement Rate
+Method                    Boulware-Boulware  Boulware-Conceder  Boulware-Linear  Boulware-Atlas3  Conceder-Conceder
+------------------------  -----------------  -----------------  ---------------  ---------------  -----------------
+Transformer-base_general  95.4%              99.4%              99.5%            99.6%            100.0%           
+Transformer-base_expert   N/A                N/A                N/A              N/A              N/A              
+MiPN-base_general         65.1%              90.3%              88.9%            85.0%            100.0%           
+MiPN-base_expert          N/A                N/A                N/A              N/A              N/A              
+RLBOA-base_general        72.8%              99.8%              95.5%            79.7%            100.0%           
+RLBOA-base_expert         N/A                N/A                N/A              N/A              N/A              
+α-Nego-base_general       84.3%              99.3%              100.0%           93.7%            100.0%           
+α-Nego-base_expert        N/A                N/A                N/A              N/A              N/A              
+
+Method                    Conceder-Linear  Conceder-Atlas3  Linear-Linear  Linear-Atlas3  Atlas3-Atlas3
+------------------------  ---------------  ---------------  -------------  -------------  -------------
+Transformer-base_general  100.0%           100.0%           100.0%         100.0%         100.0%       
+Transformer-base_expert   N/A              N/A              N/A            N/A            N/A          
+MiPN-base_general         100.0%           100.0%           100.0%         100.0%         100.0%       
+MiPN-base_expert          N/A              N/A              N/A            N/A            N/A          
+RLBOA-base_general        100.0%           100.0%           100.0%         99.5%          100.0%       
+RLBOA-base_expert         N/A              N/A              N/A            N/A            N/A          
+α-Nego-base_general       100.0%           100.0%           100.0%         100.0%         100.0%       
+α-Nego-base_expert        N/A              N/A              N/A            N/A            N/A          

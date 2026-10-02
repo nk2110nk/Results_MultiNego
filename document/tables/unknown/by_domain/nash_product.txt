@@ -1,0 +1,11 @@
+Nash Product
+Method                    Coffee  Camera  Lunch  SmartPhone  Kitchen  Average
+------------------------  ------  ------  -----  ----------  -------  -------
+Transformer-base_general  0.202   0.126   0.187  0.186       0.496    0.270  
+Transformer-base_expert   N/A     N/A     N/A    N/A         N/A      N/A    
+MiPN-base_general         0.188   0.128   0.163  0.192       0.540    0.277  
+MiPN-base_expert          N/A     N/A     N/A    N/A         N/A      N/A    
+RLBOA-base_general        0.220   0.166   0.175  0.278       0.637    0.326  
+RLBOA-base_expert         N/A     N/A     N/A    N/A         N/A      N/A    
+α-Nego-base_general       N/A     0.155   0.195  N/A         0.394    0.248  
+α-Nego-base_expert        N/A     N/A     N/A    N/A         N/A      N/A    

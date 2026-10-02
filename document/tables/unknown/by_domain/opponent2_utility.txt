@@ -1,0 +1,11 @@
+Opponent 2 Utility
+Method                    Coffee  Camera  Lunch  SmartPhone  Kitchen  Average
+------------------------  ------  ------  -----  ----------  -------  -------
+Transformer-base_general  0.622   0.506   0.597  0.604       0.789    0.631  
+Transformer-base_expert   N/A     N/A     N/A    N/A         N/A      N/A    
+MiPN-base_general         0.631   0.529   0.556  0.594       0.827    0.637  
+MiPN-base_expert          N/A     N/A     N/A    N/A         N/A      N/A    
+RLBOA-base_general        0.552   0.591   0.546  0.667       0.863    0.667  
+RLBOA-base_expert         N/A     N/A     N/A    N/A         N/A      N/A    
+α-Nego-base_general       N/A     0.549   0.572  N/A         0.552    0.557  
+α-Nego-base_expert        N/A     N/A     N/A    N/A         N/A      N/A    

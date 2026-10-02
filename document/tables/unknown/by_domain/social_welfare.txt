@@ -1,0 +1,11 @@
+Social Welfare
+Method                    Coffee  Camera  Lunch  SmartPhone  Kitchen  Average
+------------------------  ------  ------  -----  ----------  -------  -------
+Transformer-base_general  1.797   1.505   1.742  1.716       2.388    1.878  
+Transformer-base_expert   N/A     N/A     N/A    N/A         N/A      N/A    
+MiPN-base_general         1.734   1.473   1.604  1.632       2.418    1.832  
+MiPN-base_expert          N/A     N/A     N/A    N/A         N/A      N/A    
+RLBOA-base_general        1.799   1.651   1.650  1.930       2.578    1.960  
+RLBOA-base_expert         N/A     N/A     N/A    N/A         N/A      N/A    
+α-Nego-base_general       N/A     1.685   1.688  N/A         2.230    1.868  
+α-Nego-base_expert        N/A     N/A     N/A    N/A         N/A      N/A    

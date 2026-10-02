@@ -1,0 +1,22 @@
+Individual Utility
+Method                    Boulware-Boulware  Boulware-Conceder  Boulware-Linear  Boulware-Atlas3  Conceder-Conceder
+------------------------  -----------------  -----------------  ---------------  ---------------  -----------------
+Transformer-base_general  0.556              0.570              0.574            0.574            0.580            
+Transformer-base_expert   N/A                N/A                N/A              N/A              N/A              
+MiPN-base_general         0.381              0.425              0.485            0.485            0.637            
+MiPN-base_expert          N/A                N/A                N/A              N/A              N/A              
+RLBOA-base_general        0.514              0.532              0.590            0.533            0.685            
+RLBOA-base_expert         N/A                N/A                N/A              N/A              N/A              
+α-Nego-base_general       0.497              0.559              0.574            0.577            0.758            
+α-Nego-base_expert        N/A                N/A                N/A              N/A              N/A              
+
+Method                    Conceder-Linear  Conceder-Atlas3  Linear-Linear  Linear-Atlas3  Atlas3-Atlas3
+------------------------  ---------------  ---------------  -------------  -------------  -------------
+Transformer-base_general  0.556            0.571            0.579          0.572          0.587        
+Transformer-base_expert   N/A              N/A              N/A            N/A            N/A          
+MiPN-base_general         0.566            0.547            0.592          0.597          0.628        
+MiPN-base_expert          N/A              N/A              N/A            N/A            N/A          
+RLBOA-base_general        0.644            0.634            0.671          0.724          0.736        
+RLBOA-base_expert         N/A              N/A              N/A            N/A            N/A          
+α-Nego-base_general       0.617            0.586            0.666          0.650          0.603        
+α-Nego-base_expert        N/A              N/A              N/A            N/A            N/A          

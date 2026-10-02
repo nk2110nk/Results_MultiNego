@@ -1,0 +1,11 @@
+Opponent 1 Utility
+Method                    Laptop  ItexvsCypress  IS_BT_Acquisition  Grocery  thompson  Car    EnergySmall_A  Average
+------------------------  ------  -------------  -----------------  -------  --------  -----  -------------  -------
+Transformer-base_general  0.739   0.646          0.860              0.660    0.610     0.774  0.556          0.692  
+Transformer-base_expert   0.860   0.755          0.917              0.816    0.626     0.772  0.560          0.758  
+MiPN-base_general         0.804   0.624          0.842              0.695    0.632     0.756  0.593          0.707  
+MiPN-base_expert          0.729   0.567          0.811              0.665    0.532     0.746  0.471          0.646  
+RLBOA-base_general        0.823   0.774          0.870              0.818    0.604     0.847  0.705          0.777  
+RLBOA-base_expert         0.844   0.699          0.897              0.804    0.612     0.774  0.598          0.747  
+α-Nego-base_general       0.804   0.631          0.919              0.829    0.502     0.808  0.441          0.705  
+α-Nego-base_expert        0.786   0.708          0.917              0.856    0.416     0.793  0.442          0.703  

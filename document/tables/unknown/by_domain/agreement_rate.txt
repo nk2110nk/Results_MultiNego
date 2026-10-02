@@ -1,0 +1,11 @@
+Agreement Rate
+Method                    Coffee  Camera  Lunch  SmartPhone  Kitchen  Average
+------------------------  ------  ------  -----  ----------  -------  -------
+Transformer-base_general  98.2%   98.3%   99.9%  99.5%       100.0%   99.4%  
+Transformer-base_expert   N/A     N/A     N/A    N/A         N/A      N/A    
+MiPN-base_general         94.0%   88.6%   91.4%  88.5%       98.8%    92.9%  
+MiPN-base_expert          N/A     N/A     N/A    N/A         N/A      N/A    
+RLBOA-base_general        93.7%   92.1%   92.2%  95.8%       100.0%   94.7%  
+RLBOA-base_expert         N/A     N/A     N/A    N/A         N/A      N/A    
+α-Nego-base_general       N/A     100.0%  93.8%  N/A         99.4%    97.7%  
+α-Nego-base_expert        N/A     N/A     N/A    N/A         N/A      N/A    

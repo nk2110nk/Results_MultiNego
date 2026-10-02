@@ -1,0 +1,11 @@
+Agreement Rate
+Method                    Laptop  ItexvsCypress  IS_BT_Acquisition  Grocery  thompson  Car     EnergySmall_A  Average
+------------------------  ------  -------------  -----------------  -------  --------  ------  -------------  -------
+Transformer-base_general  94.6%   98.8%          99.9%              98.6%    100.0%    100.0%  99.9%          98.8%  
+Transformer-base_expert   100.0%  100.0%         100.0%             99.8%    100.0%    100.0%  98.3%          99.7%  
+MiPN-base_general         96.2%   96.0%          95.9%              94.5%    93.9%     90.0%   82.3%          92.7%  
+MiPN-base_expert          90.7%   89.3%          95.0%              93.5%    86.0%     80.7%   67.8%          86.1%  
+RLBOA-base_general        99.5%   99.7%          99.2%              99.6%    96.3%     85.4%   81.6%          94.5%  
+RLBOA-base_expert         99.7%   99.7%          99.7%              99.7%    99.3%     98.5%   98.3%          99.3%  
+α-Nego-base_general       100.0%  100.0%         100.0%             100.0%   100.0%    100.0%  100.0%         100.0% 
+α-Nego-base_expert        100.0%  100.0%         100.0%             100.0%   100.0%    100.0%  100.0%         100.0% 

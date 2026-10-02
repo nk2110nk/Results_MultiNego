@@ -1,0 +1,11 @@
+Step Efficiency
+Method                    Coffee  Camera  Lunch  SmartPhone  Kitchen  Average
+------------------------  ------  ------  -----  ----------  -------  -------
+Transformer-base_general  0.016   0.013   0.016  0.017       0.038    0.023  
+Transformer-base_expert   N/A     N/A     N/A    N/A         N/A      N/A    
+MiPN-base_general         0.024   0.020   0.017  0.028       0.062    0.033  
+MiPN-base_expert          N/A     N/A     N/A    N/A         N/A      N/A    
+RLBOA-base_general        0.021   0.018   0.018  0.029       0.077    0.037  
+RLBOA-base_expert         N/A     N/A     N/A    N/A         N/A      N/A    
+α-Nego-base_general       N/A     0.014   0.022  N/A         0.032    0.022  
+α-Nego-base_expert        N/A     N/A     N/A    N/A         N/A      N/A    

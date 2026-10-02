@@ -1,0 +1,95 @@
+Individual Utility
+Method                    Coffee  Camera  Lunch  SmartPhone  Kitchen  Average
+------------------------  ------  ------  -----  ----------  -------  -------
+Transformer-base_general  0.464   0.435   0.511  0.506       0.770    0.572  
+Transformer-base_expert   N/A     N/A     N/A    N/A         N/A      N/A    
+MiPN-base_general         0.419   0.398   0.460  0.445       0.745    0.534  
+MiPN-base_expert          N/A     N/A     N/A    N/A         N/A      N/A    
+RLBOA-base_general        0.596   0.489   0.549  0.597       0.841    0.626  
+RLBOA-base_expert         N/A     N/A     N/A    N/A         N/A      N/A    
+α-Nego-base_general       N/A     0.429   0.534  N/A         0.864    0.609  
+α-Nego-base_expert        N/A     N/A     N/A    N/A         N/A      N/A    
+
+Opponent 1 Utility
+Method                    Coffee  Camera  Lunch  SmartPhone  Kitchen  Average
+------------------------  ------  ------  -----  ----------  -------  -------
+Transformer-base_general  0.710   0.564   0.634  0.606       0.829    0.676  
+Transformer-base_expert   N/A     N/A     N/A    N/A         N/A      N/A    
+MiPN-base_general         0.684   0.547   0.587  0.594       0.846    0.660  
+MiPN-base_expert          N/A     N/A     N/A    N/A         N/A      N/A    
+RLBOA-base_general        0.650   0.571   0.555  0.666       0.874    0.667  
+RLBOA-base_expert         N/A     N/A     N/A    N/A         N/A      N/A    
+α-Nego-base_general       N/A     0.708   0.582  N/A         0.815    0.702  
+α-Nego-base_expert        N/A     N/A     N/A    N/A         N/A      N/A    
+
+Opponent 2 Utility
+Method                    Coffee  Camera  Lunch  SmartPhone  Kitchen  Average
+------------------------  ------  ------  -----  ----------  -------  -------
+Transformer-base_general  0.622   0.506   0.597  0.604       0.789    0.631  
+Transformer-base_expert   N/A     N/A     N/A    N/A         N/A      N/A    
+MiPN-base_general         0.631   0.529   0.556  0.594       0.827    0.637  
+MiPN-base_expert          N/A     N/A     N/A    N/A         N/A      N/A    
+RLBOA-base_general        0.552   0.591   0.546  0.667       0.863    0.667  
+RLBOA-base_expert         N/A     N/A     N/A    N/A         N/A      N/A    
+α-Nego-base_general       N/A     0.549   0.572  N/A         0.552    0.557  
+α-Nego-base_expert        N/A     N/A     N/A    N/A         N/A      N/A    
+
+Social Welfare
+Method                    Coffee  Camera  Lunch  SmartPhone  Kitchen  Average
+------------------------  ------  ------  -----  ----------  -------  -------
+Transformer-base_general  1.797   1.505   1.742  1.716       2.388    1.878  
+Transformer-base_expert   N/A     N/A     N/A    N/A         N/A      N/A    
+MiPN-base_general         1.734   1.473   1.604  1.632       2.418    1.832  
+MiPN-base_expert          N/A     N/A     N/A    N/A         N/A      N/A    
+RLBOA-base_general        1.799   1.651   1.650  1.930       2.578    1.960  
+RLBOA-base_expert         N/A     N/A     N/A    N/A         N/A      N/A    
+α-Nego-base_general       N/A     1.685   1.688  N/A         2.230    1.868  
+α-Nego-base_expert        N/A     N/A     N/A    N/A         N/A      N/A    
+
+Nash Product
+Method                    Coffee  Camera  Lunch  SmartPhone  Kitchen  Average
+------------------------  ------  ------  -----  ----------  -------  -------
+Transformer-base_general  0.202   0.126   0.187  0.186       0.496    0.270  
+Transformer-base_expert   N/A     N/A     N/A    N/A         N/A      N/A    
+MiPN-base_general         0.188   0.128   0.163  0.192       0.540    0.277  
+MiPN-base_expert          N/A     N/A     N/A    N/A         N/A      N/A    
+RLBOA-base_general        0.220   0.166   0.175  0.278       0.637    0.326  
+RLBOA-base_expert         N/A     N/A     N/A    N/A         N/A      N/A    
+α-Nego-base_general       N/A     0.155   0.195  N/A         0.394    0.248  
+α-Nego-base_expert        N/A     N/A     N/A    N/A         N/A      N/A    
+
+Number of Steps
+Method                    Coffee  Camera  Lunch  SmartPhone  Kitchen  Average
+------------------------  ------  ------  -----  ----------  -------  -------
+Transformer-base_general  49.49   52.10   50.50  49.90       41.06    47.89  
+Transformer-base_expert   N/A     N/A     N/A    N/A         N/A      N/A    
+MiPN-base_general         43.72   44.77   46.74  41.42       32.11    41.21  
+MiPN-base_expert          N/A     N/A     N/A    N/A         N/A      N/A    
+RLBOA-base_general        48.73   46.89   50.65  42.14       25.29    40.94  
+RLBOA-base_expert         N/A     N/A     N/A    N/A         N/A      N/A    
+α-Nego-base_general       N/A     51.28   52.13  N/A         44.99    49.47  
+α-Nego-base_expert        N/A     N/A     N/A    N/A         N/A      N/A    
+
+Step Efficiency
+Method                    Coffee  Camera  Lunch  SmartPhone  Kitchen  Average
+------------------------  ------  ------  -----  ----------  -------  -------
+Transformer-base_general  0.016   0.013   0.016  0.017       0.038    0.023  
+Transformer-base_expert   N/A     N/A     N/A    N/A         N/A      N/A    
+MiPN-base_general         0.024   0.020   0.017  0.028       0.062    0.033  
+MiPN-base_expert          N/A     N/A     N/A    N/A         N/A      N/A    
+RLBOA-base_general        0.021   0.018   0.018  0.029       0.077    0.037  
+RLBOA-base_expert         N/A     N/A     N/A    N/A         N/A      N/A    
+α-Nego-base_general       N/A     0.014   0.022  N/A         0.032    0.022  
+α-Nego-base_expert        N/A     N/A     N/A    N/A         N/A      N/A    
+
+Agreement Rate
+Method                    Coffee  Camera  Lunch  SmartPhone  Kitchen  Average
+------------------------  ------  ------  -----  ----------  -------  -------
+Transformer-base_general  98.2%   98.3%   99.9%  99.5%       100.0%   99.4%  
+Transformer-base_expert   N/A     N/A     N/A    N/A         N/A      N/A    
+MiPN-base_general         94.0%   88.6%   91.4%  88.5%       98.8%    92.9%  
+MiPN-base_expert          N/A     N/A     N/A    N/A         N/A      N/A    
+RLBOA-base_general        93.7%   92.1%   92.2%  95.8%       100.0%   94.7%  
+RLBOA-base_expert         N/A     N/A     N/A    N/A         N/A      N/A    
+α-Nego-base_general       N/A     100.0%  93.8%  N/A         99.4%    97.7%  
+α-Nego-base_expert        N/A     N/A     N/A    N/A         N/A      N/A    
