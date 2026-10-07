@@ -1,0 +1,101 @@
+my_util	opp_util1	opp_util2	social	nash	agreement	step	style	opponent1_id	opponent2_id	opponent1_source	opponent2_source	negotiation_score	seed	domain	case
+0.9646539408973109	0.6035999999999999	0.818217503914256	2.386471444811567	0.4764195120600121	{'Stoves': 'Ceramic', 'Refrigerator': 'Traditional', 'Cabinets': 'Oak', 'Countertops': 'Limestone', 'Lighting spots': '20', 'Equipment': 'Water Boiler'}	78	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	84.58826929196111	0	Kitchen	case3
+0.8580930595505711	1.0	0.9629407920326665	2.8210338515832376	0.826292810401361	{'Stoves': 'Hybrid', 'Refrigerator': 'Four-door French-door', 'Cabinets': 'Cherry', 'Countertops': 'Granite', 'Lighting spots': '15', 'Equipment': 'Oven'}	10	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	51.97188912109822	1	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	2	Kitchen	case3
+0.9646539408973109	0.6035999999999999	0.818217503914256	2.386471444811567	0.4764195120600121	{'Stoves': 'Ceramic', 'Refrigerator': 'Traditional', 'Cabinets': 'Oak', 'Countertops': 'Limestone', 'Lighting spots': '20', 'Equipment': 'Water Boiler'}	78	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	84.58826929196111	3	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	4	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	5	Kitchen	case3
+0.6191816953344237	0.5139999999999999	0.9651094855047349	2.0982911808391584	0.30715515749293165	{'Stoves': 'Hybrid', 'Refrigerator': 'Side-by-side', 'Cabinets': 'Oak', 'Countertops': 'Inox', 'Lighting spots': '10', 'Equipment': 'Dishwasher'}	78	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	16.922643679043542	6	Kitchen	case3
+0.9646539408973109	0.6035999999999999	0.818217503914256	2.386471444811567	0.4764195120600121	{'Stoves': 'Ceramic', 'Refrigerator': 'Traditional', 'Cabinets': 'Oak', 'Countertops': 'Limestone', 'Lighting spots': '20', 'Equipment': 'Water Boiler'}	78	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	84.58826929196111	7	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	8	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	9	Kitchen	case3
+0.8580930595505711	1.0	0.9629407920326665	2.8210338515832376	0.826292810401361	{'Stoves': 'Hybrid', 'Refrigerator': 'Four-door French-door', 'Cabinets': 'Cherry', 'Countertops': 'Granite', 'Lighting spots': '15', 'Equipment': 'Oven'}	7	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	51.98688912109822	10	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	11	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	12	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	13	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	14	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	15	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	16	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	17	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	18	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	19	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	20	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	21	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	22	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	23	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	24	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	25	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	26	Kitchen	case3
+0.9646539408973109	0.6035999999999999	0.818217503914256	2.386471444811567	0.4764195120600121	{'Stoves': 'Ceramic', 'Refrigerator': 'Traditional', 'Cabinets': 'Oak', 'Countertops': 'Limestone', 'Lighting spots': '20', 'Equipment': 'Water Boiler'}	78	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	84.58826929196111	27	Kitchen	case3
+0.8580930595505711	1.0	0.9629407920326665	2.8210338515832376	0.826292810401361	{'Stoves': 'Hybrid', 'Refrigerator': 'Four-door French-door', 'Cabinets': 'Cherry', 'Countertops': 'Granite', 'Lighting spots': '15', 'Equipment': 'Oven'}	10	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	51.97188912109822	28	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	29	Kitchen	case3
+0.7712840695617447	0.5312	0.8516584013960071	2.1541424709577517	0.3489296402529822	{'Stoves': 'Ceramic', 'Refrigerator': 'Side-by-side', 'Cabinets': 'Cherry', 'Countertops': 'Inox', 'Lighting spots': '5', 'Equipment': 'Coffee machine'}	78	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	34.48933041620173	30	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	31	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	32	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	33	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	34	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	35	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	36	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	37	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	38	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	39	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	40	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	41	Kitchen	case3
+0.8580930595505711	1.0	0.9629407920326665	2.8210338515832376	0.826292810401361	{'Stoves': 'Hybrid', 'Refrigerator': 'Four-door French-door', 'Cabinets': 'Cherry', 'Countertops': 'Granite', 'Lighting spots': '15', 'Equipment': 'Oven'}	4	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	52.001889121098216	42	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	43	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	44	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	45	Kitchen	case3
+0.8580930595505711	1.0	0.9629407920326665	2.8210338515832376	0.826292810401361	{'Stoves': 'Hybrid', 'Refrigerator': 'Four-door French-door', 'Cabinets': 'Cherry', 'Countertops': 'Granite', 'Lighting spots': '15', 'Equipment': 'Oven'}	10	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	51.97188912109822	46	Kitchen	case3
+0.8580930595505711	1.0	0.9629407920326665	2.8210338515832376	0.826292810401361	{'Stoves': 'Hybrid', 'Refrigerator': 'Four-door French-door', 'Cabinets': 'Cherry', 'Countertops': 'Granite', 'Lighting spots': '15', 'Equipment': 'Oven'}	10	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	51.97188912109822	47	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	48	Kitchen	case3
+0.8580930595505711	1.0	0.9629407920326665	2.8210338515832376	0.826292810401361	{'Stoves': 'Hybrid', 'Refrigerator': 'Four-door French-door', 'Cabinets': 'Cherry', 'Countertops': 'Granite', 'Lighting spots': '15', 'Equipment': 'Oven'}	10	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	51.97188912109822	49	Kitchen	case3
+0.8580930595505711	1.0	0.9629407920326665	2.8210338515832376	0.826292810401361	{'Stoves': 'Hybrid', 'Refrigerator': 'Four-door French-door', 'Cabinets': 'Cherry', 'Countertops': 'Granite', 'Lighting spots': '15', 'Equipment': 'Oven'}	10	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	51.97188912109822	50	Kitchen	case3
+0.9646539408973109	0.6035999999999999	0.818217503914256	2.386471444811567	0.4764195120600121	{'Stoves': 'Ceramic', 'Refrigerator': 'Traditional', 'Cabinets': 'Oak', 'Countertops': 'Limestone', 'Lighting spots': '20', 'Equipment': 'Water Boiler'}	78	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	84.58826929196111	51	Kitchen	case3
+0.8580930595505711	1.0	0.9629407920326665	2.8210338515832376	0.826292810401361	{'Stoves': 'Hybrid', 'Refrigerator': 'Four-door French-door', 'Cabinets': 'Cherry', 'Countertops': 'Granite', 'Lighting spots': '15', 'Equipment': 'Oven'}	10	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	51.97188912109822	52	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	53	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	54	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	55	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	56	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	57	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	58	Kitchen	case3
+0.9646539408973109	0.6035999999999999	0.818217503914256	2.386471444811567	0.4764195120600121	{'Stoves': 'Ceramic', 'Refrigerator': 'Traditional', 'Cabinets': 'Oak', 'Countertops': 'Limestone', 'Lighting spots': '20', 'Equipment': 'Water Boiler'}	78	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	84.58826929196111	59	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	60	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	61	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	62	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	63	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	64	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	65	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	66	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	67	Kitchen	case3
+0.9646539408973109	0.6035999999999999	0.818217503914256	2.386471444811567	0.4764195120600121	{'Stoves': 'Ceramic', 'Refrigerator': 'Traditional', 'Cabinets': 'Oak', 'Countertops': 'Limestone', 'Lighting spots': '20', 'Equipment': 'Water Boiler'}	78	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	84.58826929196111	68	Kitchen	case3
+0.9646539408973109	0.6035999999999999	0.818217503914256	2.386471444811567	0.4764195120600121	{'Stoves': 'Ceramic', 'Refrigerator': 'Traditional', 'Cabinets': 'Oak', 'Countertops': 'Limestone', 'Lighting spots': '20', 'Equipment': 'Water Boiler'}	78	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	84.58826929196111	69	Kitchen	case3
+0.8580930595505711	1.0	0.9629407920326665	2.8210338515832376	0.826292810401361	{'Stoves': 'Hybrid', 'Refrigerator': 'Four-door French-door', 'Cabinets': 'Cherry', 'Countertops': 'Granite', 'Lighting spots': '15', 'Equipment': 'Oven'}	7	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	51.98688912109822	70	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	71	Kitchen	case3
+0.9646539408973109	0.6035999999999999	0.818217503914256	2.386471444811567	0.4764195120600121	{'Stoves': 'Ceramic', 'Refrigerator': 'Traditional', 'Cabinets': 'Oak', 'Countertops': 'Limestone', 'Lighting spots': '20', 'Equipment': 'Water Boiler'}	78	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	84.58826929196111	72	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	73	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	74	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	75	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	76	Kitchen	case3
+0.9646539408973109	0.6035999999999999	0.818217503914256	2.386471444811567	0.4764195120600121	{'Stoves': 'Ceramic', 'Refrigerator': 'Traditional', 'Cabinets': 'Oak', 'Countertops': 'Limestone', 'Lighting spots': '20', 'Equipment': 'Water Boiler'}	78	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	84.58826929196111	77	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	78	Kitchen	case3
+0.8580930595505711	1.0	0.9629407920326665	2.8210338515832376	0.826292810401361	{'Stoves': 'Hybrid', 'Refrigerator': 'Four-door French-door', 'Cabinets': 'Cherry', 'Countertops': 'Granite', 'Lighting spots': '15', 'Equipment': 'Oven'}	10	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	51.97188912109822	79	Kitchen	case3
+0.8580930595505711	1.0	0.9629407920326665	2.8210338515832376	0.826292810401361	{'Stoves': 'Hybrid', 'Refrigerator': 'Four-door French-door', 'Cabinets': 'Cherry', 'Countertops': 'Granite', 'Lighting spots': '15', 'Equipment': 'Oven'}	7	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	51.98688912109822	80	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	81	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	82	Kitchen	case3
+0.8580930595505711	1.0	0.9629407920326665	2.8210338515832376	0.826292810401361	{'Stoves': 'Hybrid', 'Refrigerator': 'Four-door French-door', 'Cabinets': 'Cherry', 'Countertops': 'Granite', 'Lighting spots': '15', 'Equipment': 'Oven'}	10	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	51.97188912109822	83	Kitchen	case3
+0.9646539408973109	0.6035999999999999	0.818217503914256	2.386471444811567	0.4764195120600121	{'Stoves': 'Ceramic', 'Refrigerator': 'Traditional', 'Cabinets': 'Oak', 'Countertops': 'Limestone', 'Lighting spots': '20', 'Equipment': 'Water Boiler'}	78	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	84.58826929196111	84	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	85	Kitchen	case3
+0.9646539408973109	0.6035999999999999	0.818217503914256	2.386471444811567	0.4764195120600121	{'Stoves': 'Ceramic', 'Refrigerator': 'Traditional', 'Cabinets': 'Oak', 'Countertops': 'Limestone', 'Lighting spots': '20', 'Equipment': 'Water Boiler'}	78	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	84.58826929196111	86	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	87	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	88	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	89	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	90	Kitchen	case3
+0.9646539408973109	0.6035999999999999	0.818217503914256	2.386471444811567	0.4764195120600121	{'Stoves': 'Ceramic', 'Refrigerator': 'Traditional', 'Cabinets': 'Oak', 'Countertops': 'Limestone', 'Lighting spots': '20', 'Equipment': 'Water Boiler'}	78	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	84.58826929196111	91	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	92	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	93	Kitchen	case3
+0.8580930595505711	1.0	0.9629407920326665	2.8210338515832376	0.826292810401361	{'Stoves': 'Hybrid', 'Refrigerator': 'Four-door French-door', 'Cabinets': 'Cherry', 'Countertops': 'Granite', 'Lighting spots': '15', 'Equipment': 'Oven'}	10	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	51.97188912109822	94	Kitchen	case3
+0.44790169223440945	0.5798000000000001	0.8745515386301361	1.9022532308645457	0.22711526355439413	{'Stoves': 'Ceramic', 'Refrigerator': 'Top-refrigerator/bottom freezer', 'Cabinets': 'Mahogany', 'Countertops': 'Granite', 'Lighting spots': '20', 'Equipment': 'Water Boiler'}	78	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	7.476895558278644	95	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	96	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	97	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	98	Kitchen	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	99	Kitchen	case3

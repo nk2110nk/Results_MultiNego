@@ -1,0 +1,101 @@
+my_util	opp_util1	opp_util2	social	nash	agreement	step	style	opponent1_id	opponent2_id	opponent1_source	opponent2_source	negotiation_score	seed	domain	case
+0.6889650609419535	0.5212	0.6097237322863287	1.8198887932282823	0.2189448351716979	{'salad': 'green', 'soup': 'corn(ice)', 'carbohydrate': 'bread(french)', 'main': 'chicken', 'drink': 'tea', 'dessert': 'sherbet'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	23.48427114248511	0	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	1	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	2	Lunch	case2
+0.6889650609419535	0.5212	0.6097237322863287	1.8198887932282823	0.2189448351716979	{'salad': 'green', 'soup': 'corn(ice)', 'carbohydrate': 'bread(french)', 'main': 'chicken', 'drink': 'tea', 'dessert': 'sherbet'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	23.48427114248511	3	Lunch	case2
+0.6889650609419535	0.5212	0.6097237322863287	1.8198887932282823	0.2189448351716979	{'salad': 'green', 'soup': 'corn(ice)', 'carbohydrate': 'bread(french)', 'main': 'chicken', 'drink': 'tea', 'dessert': 'sherbet'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	23.48427114248511	4	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	5	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	6	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	7	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	8	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	9	Lunch	case2
+0.6074600654957067	0.5226000000000001	0.49116636759400206	1.621226433089709	0.15592500227048192	{'salad': 'sea', 'soup': 'corn(ice)', 'carbohydrate': 'rice', 'main': 'pork', 'drink': 'orange', 'dessert': 'sherbet'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	16.012880879695327	10	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	11	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	12	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	13	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	14	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	15	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	16	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	17	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	18	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	19	Lunch	case2
+0.6114053887858965	0.6678000000000001	0.5415484704108187	1.8207538591967152	0.22111235513880043	{'salad': 'sea', 'soup': 'miso', 'carbohydrate': 'bread(french)', 'main': 'chicken', 'drink': 'orange', 'dessert': 'sherbet'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	16.313626774821746	20	Lunch	case2
+0.6889650609419535	0.5212	0.6097237322863287	1.8198887932282823	0.2189448351716979	{'salad': 'green', 'soup': 'corn(ice)', 'carbohydrate': 'bread(french)', 'main': 'chicken', 'drink': 'tea', 'dessert': 'sherbet'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	23.48427114248511	21	Lunch	case2
+0.6889650609419535	0.5212	0.6097237322863287	1.8198887932282823	0.2189448351716979	{'salad': 'green', 'soup': 'corn(ice)', 'carbohydrate': 'bread(french)', 'main': 'chicken', 'drink': 'tea', 'dessert': 'sherbet'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	23.48427114248511	22	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	23	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	24	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	25	Lunch	case2
+0.6889650609419535	0.5212	0.6097237322863287	1.8198887932282823	0.2189448351716979	{'salad': 'green', 'soup': 'corn(ice)', 'carbohydrate': 'bread(french)', 'main': 'chicken', 'drink': 'tea', 'dessert': 'sherbet'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	23.48427114248511	26	Lunch	case2
+0.6889650609419535	0.5212	0.6097237322863287	1.8198887932282823	0.2189448351716979	{'salad': 'green', 'soup': 'corn(ice)', 'carbohydrate': 'bread(french)', 'main': 'chicken', 'drink': 'tea', 'dessert': 'sherbet'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	23.48427114248511	27	Lunch	case2
+0.4917745076566183	0.6944	0.7450930665688283	1.9312675742254468	0.25444050363373844	{'salad': 'caesar', 'soup': 'miso', 'carbohydrate': 'bread(roll)', 'main': 'beef', 'drink': 'orange', 'dessert': 'cake'}	75	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.253286735433411	28	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	29	Lunch	case2
+0.6889650609419535	0.5212	0.6097237322863287	1.8198887932282823	0.2189448351716979	{'salad': 'green', 'soup': 'corn(ice)', 'carbohydrate': 'bread(french)', 'main': 'chicken', 'drink': 'tea', 'dessert': 'sherbet'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	23.48427114248511	30	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	31	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	32	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	33	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	34	Lunch	case2
+0.6889650609419535	0.5212	0.6097237322863287	1.8198887932282823	0.2189448351716979	{'salad': 'green', 'soup': 'corn(ice)', 'carbohydrate': 'bread(french)', 'main': 'chicken', 'drink': 'tea', 'dessert': 'sherbet'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	23.48427114248511	35	Lunch	case2
+0.6889650609419535	0.5212	0.6097237322863287	1.8198887932282823	0.2189448351716979	{'salad': 'green', 'soup': 'corn(ice)', 'carbohydrate': 'bread(french)', 'main': 'chicken', 'drink': 'tea', 'dessert': 'sherbet'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	23.48427114248511	36	Lunch	case2
+0.6889650609419535	0.5212	0.6097237322863287	1.8198887932282823	0.2189448351716979	{'salad': 'green', 'soup': 'corn(ice)', 'carbohydrate': 'bread(french)', 'main': 'chicken', 'drink': 'tea', 'dessert': 'sherbet'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	23.48427114248511	37	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	38	Lunch	case2
+0.6889650609419535	0.5212	0.6097237322863287	1.8198887932282823	0.2189448351716979	{'salad': 'green', 'soup': 'corn(ice)', 'carbohydrate': 'bread(french)', 'main': 'chicken', 'drink': 'tea', 'dessert': 'sherbet'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	23.48427114248511	39	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	40	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	41	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	42	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	43	Lunch	case2
+0.6889650609419535	0.5212	0.6097237322863287	1.8198887932282823	0.2189448351716979	{'salad': 'green', 'soup': 'corn(ice)', 'carbohydrate': 'bread(french)', 'main': 'chicken', 'drink': 'tea', 'dessert': 'sherbet'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	23.48427114248511	44	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	45	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	46	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	47	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	48	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	49	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	50	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	51	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	52	Lunch	case2
+0.6889650609419535	0.5212	0.6097237322863287	1.8198887932282823	0.2189448351716979	{'salad': 'green', 'soup': 'corn(ice)', 'carbohydrate': 'bread(french)', 'main': 'chicken', 'drink': 'tea', 'dessert': 'sherbet'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	23.48427114248511	53	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	54	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	55	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	56	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	57	Lunch	case2
+0.6889650609419535	0.5212	0.6097237322863287	1.8198887932282823	0.2189448351716979	{'salad': 'green', 'soup': 'corn(ice)', 'carbohydrate': 'bread(french)', 'main': 'chicken', 'drink': 'tea', 'dessert': 'sherbet'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	23.48427114248511	58	Lunch	case2
+0.6008699709919274	0.6728000000000001	0.6954356442518138	1.9691056152437412	0.281140510817275	{'salad': 'green', 'soup': 'corn(hot)', 'carbohydrate': 'rice', 'main': 'chicken', 'drink': 'orange', 'dessert': 'cake'}	75	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	15.537555887726489	59	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	60	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	61	Lunch	case2
+0.5943106135341529	0.5756	0.6793105557948718	1.8492211693290248	0.2323820799708559	{'salad': 'green', 'soup': 'corn(ice)', 'carbohydrate': 'bread(roll)', 'main': 'chicken', 'drink': 'tea', 'dessert': 'ice cream'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	15.049073227412132	62	Lunch	case2
+0.5936744806881901	0.5150000000000001	0.6665424166915438	1.775216897379734	0.20379024988929184	{'salad': 'potato', 'soup': 'corn(hot)', 'carbohydrate': 'bread(french)', 'main': 'beef', 'drink': 'green tea', 'dessert': 'cake'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	15.003910646326494	63	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	64	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	65	Lunch	case2
+0.6889650609419535	0.5212	0.6097237322863287	1.8198887932282823	0.2189448351716979	{'salad': 'green', 'soup': 'corn(ice)', 'carbohydrate': 'bread(french)', 'main': 'chicken', 'drink': 'tea', 'dessert': 'sherbet'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	23.48427114248511	66	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	67	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	68	Lunch	case2
+0.6889650609419535	0.5212	0.6097237322863287	1.8198887932282823	0.2189448351716979	{'salad': 'green', 'soup': 'corn(ice)', 'carbohydrate': 'bread(french)', 'main': 'chicken', 'drink': 'tea', 'dessert': 'sherbet'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	23.48427114248511	69	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	70	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	71	Lunch	case2
+0.6889650609419535	0.5212	0.6097237322863287	1.8198887932282823	0.2189448351716979	{'salad': 'green', 'soup': 'corn(ice)', 'carbohydrate': 'bread(french)', 'main': 'chicken', 'drink': 'tea', 'dessert': 'sherbet'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	23.48427114248511	72	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	73	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	74	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	75	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	76	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	77	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	78	Lunch	case2
+0.6889650609419535	0.5212	0.6097237322863287	1.8198887932282823	0.2189448351716979	{'salad': 'green', 'soup': 'corn(ice)', 'carbohydrate': 'bread(french)', 'main': 'chicken', 'drink': 'tea', 'dessert': 'sherbet'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	23.48427114248511	79	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	80	Lunch	case2
+0.48101801741377426	0.41960000000000003	0.42543039144382355	1.326048408857598	0.08586681117137111	{'salad': 'green', 'soup': 'corn(ice)', 'carbohydrate': 'rice', 'main': 'fish', 'drink': 'coke', 'dessert': 'ice cream'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	8.762965150739337	81	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	82	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	83	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	84	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	85	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	86	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	87	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	88	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	89	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	90	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	91	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	92	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	93	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	94	Lunch	case2
+0.4707215656407516	0.8091999999999999	0.7771218925746117	2.057043458215363	0.29601186108563127	{'salad': 'potato', 'soup': 'miso', 'carbohydrate': 'bread(roll)', 'main': 'chicken', 'drink': 'tea', 'dessert': 'cake'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	8.348625571103682	95	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	96	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	97	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	98	Lunch	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	99	Lunch	case2

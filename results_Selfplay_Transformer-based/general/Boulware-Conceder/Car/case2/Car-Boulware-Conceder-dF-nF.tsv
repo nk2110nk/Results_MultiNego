@@ -1,0 +1,101 @@
+my_util	opp_util1	opp_util2	social	nash	agreement	step	style	opponent1_id	opponent2_id	opponent1_source	opponent2_source	negotiation_score	seed	domain	case
+0.7308000000000001	0.471	0.9396000000000001	2.1414	0.32341670928000005	{'CD player': 'meager', 'Extra speakers': 'good', 'Airconditioning': 'standard', 'Tow hedge': 'standard', 'Tow hedge2': 'fairly good', 'Tow hedge3': 'good'}	79	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	28.551762641760295	0	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	1	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	2	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	3	Car	case2
+0.6340000000000001	0.682	0.466	1.7820000000000003	0.20149280800000005	{'CD player': 'good', 'Extra speakers': 'none', 'Airconditioning': 'none', 'Tow hedge': 'meager', 'Tow hedge2': 'standard', 'Tow hedge3': 'none'}	75	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	18.160316234148112	4	Car	case2
+0.996	0.9400000000000001	0.1683	2.1043	0.15756919200000002	{'CD player': 'none', 'Extra speakers': 'none', 'Airconditioning': 'none', 'Tow hedge': 'none', 'Tow hedge2': 'fairly good', 'Tow hedge3': 'none'}	64	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	97.85479430199835	5	Car	case2
+0.9160000000000001	0.6525	0.7976000000000001	2.3661000000000003	0.4767175440000001	{'CD player': 'none', 'Extra speakers': 'fairly good', 'Airconditioning': 'standard', 'Tow hedge': 'meager', 'Tow hedge2': 'standard', 'Tow hedge3': 'good'}	78	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	67.53036326171845	6	Car	case2
+0.7308000000000001	0.471	0.9396000000000001	2.1414	0.32341670928000005	{'CD player': 'meager', 'Extra speakers': 'good', 'Airconditioning': 'standard', 'Tow hedge': 'standard', 'Tow hedge2': 'fairly good', 'Tow hedge3': 'good'}	79	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	28.551762641760295	7	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	8	Car	case2
+0.7308000000000001	0.471	0.9396000000000001	2.1414	0.32341670928000005	{'CD player': 'meager', 'Extra speakers': 'good', 'Airconditioning': 'standard', 'Tow hedge': 'standard', 'Tow hedge2': 'fairly good', 'Tow hedge3': 'good'}	79	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	28.551762641760295	9	Car	case2
+0.5930000000000001	0.581	0.7737	1.9477	0.2665651821	{'CD player': 'good', 'Extra speakers': 'none', 'Airconditioning': 'meager', 'Tow hedge': 'fairly good', 'Tow hedge2': 'fairly good', 'Tow hedge3': 'meager'}	78	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	14.956169827992941	10	Car	case2
+0.7308000000000001	0.471	0.9396000000000001	2.1414	0.32341670928000005	{'CD player': 'meager', 'Extra speakers': 'good', 'Airconditioning': 'standard', 'Tow hedge': 'standard', 'Tow hedge2': 'fairly good', 'Tow hedge3': 'good'}	79	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	28.551762641760295	11	Car	case2
+0.7308000000000001	0.471	0.9396000000000001	2.1414	0.32341670928000005	{'CD player': 'meager', 'Extra speakers': 'good', 'Airconditioning': 'standard', 'Tow hedge': 'standard', 'Tow hedge2': 'fairly good', 'Tow hedge3': 'good'}	79	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	28.551762641760295	12	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	13	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	14	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	15	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	16	Car	case2
+0.9168000000000002	0.651	0.9076000000000001	2.4754	0.5416890796800002	{'CD player': 'meager', 'Extra speakers': 'meager', 'Airconditioning': 'standard', 'Tow hedge': 'standard', 'Tow hedge2': 'good', 'Tow hedge3': 'fairly good'}	75	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	67.79605263058535	17	Car	case2
+0.9360000000000002	0.7649999999999999	0.7706000000000001	2.4716	0.551780424	{'CD player': 'none', 'Extra speakers': 'meager', 'Airconditioning': 'fairly good', 'Tow hedge': 'meager', 'Tow hedge2': 'standard', 'Tow hedge3': 'fairly good'}	73	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	74.1081973905989	18	Car	case2
+0.7308000000000001	0.471	0.9396000000000001	2.1414	0.32341670928000005	{'CD player': 'meager', 'Extra speakers': 'good', 'Airconditioning': 'standard', 'Tow hedge': 'standard', 'Tow hedge2': 'fairly good', 'Tow hedge3': 'good'}	79	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	28.551762641760295	19	Car	case2
+0.7308000000000001	0.471	0.9396000000000001	2.1414	0.32341670928000005	{'CD player': 'meager', 'Extra speakers': 'good', 'Airconditioning': 'standard', 'Tow hedge': 'standard', 'Tow hedge2': 'fairly good', 'Tow hedge3': 'good'}	79	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	28.551762641760295	20	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	21	Car	case2
+0.79	0.7639999999999999	0.48030000000000006	2.0343	0.28988986800000005	{'CD player': 'none', 'Extra speakers': 'standard', 'Airconditioning': 'none', 'Tow hedge': 'good', 'Tow hedge2': 'standard', 'Tow hedge3': 'none'}	75	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	37.643939632056096	22	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	23	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	24	Car	case2
+0.405	0.5005000000000001	0.7640000000000001	1.6695000000000002	0.15486471000000004	{'CD player': 'good', 'Extra speakers': 'meager', 'Airconditioning': 'none', 'Tow hedge': 'good', 'Tow hedge2': 'good', 'Tow hedge3': 'meager'}	78	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	6.066542290346554	25	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	26	Car	case2
+0.7308000000000001	0.471	0.9396000000000001	2.1414	0.32341670928000005	{'CD player': 'meager', 'Extra speakers': 'good', 'Airconditioning': 'standard', 'Tow hedge': 'standard', 'Tow hedge2': 'fairly good', 'Tow hedge3': 'good'}	79	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	28.551762641760295	27	Car	case2
+0.7308000000000001	0.471	0.9396000000000001	2.1414	0.32341670928000005	{'CD player': 'meager', 'Extra speakers': 'good', 'Airconditioning': 'standard', 'Tow hedge': 'standard', 'Tow hedge2': 'fairly good', 'Tow hedge3': 'good'}	79	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	28.551762641760295	28	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	29	Car	case2
+0.885	0.684	0.6311	2.2001	0.38203007400000005	{'CD player': 'fairly good', 'Extra speakers': 'none', 'Airconditioning': 'none', 'Tow hedge': 'fairly good', 'Tow hedge2': 'meager', 'Tow hedge3': 'good'}	78	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	58.49436553555885	30	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	31	Car	case2
+0.7308000000000001	0.471	0.9396000000000001	2.1414	0.32341670928000005	{'CD player': 'meager', 'Extra speakers': 'good', 'Airconditioning': 'standard', 'Tow hedge': 'standard', 'Tow hedge2': 'fairly good', 'Tow hedge3': 'good'}	79	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	28.551762641760295	32	Car	case2
+0.7308000000000001	0.471	0.9396000000000001	2.1414	0.32341670928000005	{'CD player': 'meager', 'Extra speakers': 'good', 'Airconditioning': 'standard', 'Tow hedge': 'standard', 'Tow hedge2': 'fairly good', 'Tow hedge3': 'good'}	79	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	28.551762641760295	33	Car	case2
+0.911	0.5780000000000001	0.9091	2.3981000000000003	0.4786938778000001	{'CD player': 'fairly good', 'Extra speakers': 'standard', 'Airconditioning': 'meager', 'Tow hedge': 'standard', 'Tow hedge2': 'meager', 'Tow hedge3': 'fairly good'}	78	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	65.98430704019084	34	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	35	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	36	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	37	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	38	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	39	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	40	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	41	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	42	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	43	Car	case2
+0.7308000000000001	0.471	0.9396000000000001	2.1414	0.32341670928000005	{'CD player': 'meager', 'Extra speakers': 'good', 'Airconditioning': 'standard', 'Tow hedge': 'standard', 'Tow hedge2': 'fairly good', 'Tow hedge3': 'good'}	79	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	28.551762641760295	44	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	45	Car	case2
+0.7660000000000001	0.7809999999999999	0.6227	2.1697	0.37252778420000005	{'CD player': 'none', 'Extra speakers': 'meager', 'Airconditioning': 'standard', 'Tow hedge': 'good', 'Tow hedge2': 'none', 'Tow hedge3': 'standard'}	75	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	33.665818970100084	46	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	47	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	48	Car	case2
+0.7308000000000001	0.471	0.9396000000000001	2.1414	0.32341670928000005	{'CD player': 'meager', 'Extra speakers': 'good', 'Airconditioning': 'standard', 'Tow hedge': 'standard', 'Tow hedge2': 'fairly good', 'Tow hedge3': 'good'}	79	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	28.551762641760295	49	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	50	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	51	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	52	Car	case2
+0.7308000000000001	0.471	0.9396000000000001	2.1414	0.32341670928000005	{'CD player': 'meager', 'Extra speakers': 'good', 'Airconditioning': 'standard', 'Tow hedge': 'standard', 'Tow hedge2': 'fairly good', 'Tow hedge3': 'good'}	79	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	28.551762641760295	53	Car	case2
+0.5870000000000001	0.491	0.7814	1.8594	0.22521276380000005	{'CD player': 'good', 'Extra speakers': 'standard', 'Airconditioning': 'none', 'Tow hedge': 'fairly good', 'Tow hedge2': 'meager', 'Tow hedge3': 'fairly good'}	78	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	14.537944095789959	54	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	55	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	56	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	57	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	58	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	59	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	60	Car	case2
+0.7308000000000001	0.471	0.9396000000000001	2.1414	0.32341670928000005	{'CD player': 'meager', 'Extra speakers': 'good', 'Airconditioning': 'standard', 'Tow hedge': 'standard', 'Tow hedge2': 'fairly good', 'Tow hedge3': 'good'}	79	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	28.551762641760295	61	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	62	Car	case2
+0.9400000000000002	0.8605	0.49300000000000005	2.2935000000000003	0.39877291000000015	{'CD player': 'none', 'Extra speakers': 'none', 'Airconditioning': 'standard', 'Tow hedge': 'fairly good', 'Tow hedge2': 'none', 'Tow hedge3': 'standard'}	69	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	75.51275750291838	63	Car	case2
+0.8600000000000001	0.5934999999999999	0.8231999999999999	2.2767	0.42016951199999997	{'CD player': 'fairly good', 'Extra speakers': 'none', 'Airconditioning': 'fairly good', 'Tow hedge': 'fairly good', 'Tow hedge2': 'fairly good', 'Tow hedge3': 'standard'}	78	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	52.09074602497724	64	Car	case2
+0.7308000000000001	0.471	0.9396000000000001	2.1414	0.32341670928000005	{'CD player': 'meager', 'Extra speakers': 'good', 'Airconditioning': 'standard', 'Tow hedge': 'standard', 'Tow hedge2': 'fairly good', 'Tow hedge3': 'good'}	79	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	28.551762641760295	65	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	66	Car	case2
+0.9260000000000002	0.7395	0.48150000000000004	2.1470000000000002	0.3297201255000001	{'CD player': 'fairly good', 'Extra speakers': 'none', 'Airconditioning': 'standard', 'Tow hedge': 'none', 'Tow hedge2': 'none', 'Tow hedge3': 'standard'}	75	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	70.7463513653329	67	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	68	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	69	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	70	Car	case2
+0.7308000000000001	0.471	0.9396000000000001	2.1414	0.32341670928000005	{'CD player': 'meager', 'Extra speakers': 'good', 'Airconditioning': 'standard', 'Tow hedge': 'standard', 'Tow hedge2': 'fairly good', 'Tow hedge3': 'good'}	79	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	28.551762641760295	71	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	72	Car	case2
+0.7308000000000001	0.471	0.9396000000000001	2.1414	0.32341670928000005	{'CD player': 'meager', 'Extra speakers': 'good', 'Airconditioning': 'standard', 'Tow hedge': 'standard', 'Tow hedge2': 'fairly good', 'Tow hedge3': 'good'}	79	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	28.551762641760295	73	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	74	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	75	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	76	Car	case2
+0.9467999999999999	0.726	0.7456	2.4184	0.51250814208	{'CD player': 'meager', 'Extra speakers': 'none', 'Airconditioning': 'meager', 'Tow hedge': 'meager', 'Tow hedge2': 'good', 'Tow hedge3': 'good'}	75	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	77.89584095906105	77	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	78	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	79	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	80	Car	case2
+0.7308000000000001	0.471	0.9396000000000001	2.1414	0.32341670928000005	{'CD player': 'meager', 'Extra speakers': 'good', 'Airconditioning': 'standard', 'Tow hedge': 'standard', 'Tow hedge2': 'fairly good', 'Tow hedge3': 'good'}	79	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	28.551762641760295	81	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	82	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	83	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	84	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	85	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	86	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	87	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	88	Car	case2
+0.996	0.9400000000000001	0.1683	2.1043	0.15756919200000002	{'CD player': 'none', 'Extra speakers': 'none', 'Airconditioning': 'none', 'Tow hedge': 'none', 'Tow hedge2': 'fairly good', 'Tow hedge3': 'none'}	64	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	97.85479430199835	89	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	90	Car	case2
+0.7400000000000001	0.6970000000000001	0.7961000000000001	2.2331000000000003	0.4106124580000002	{'CD player': 'none', 'Extra speakers': 'meager', 'Airconditioning': 'fairly good', 'Tow hedge': 'good', 'Tow hedge2': 'standard', 'Tow hedge3': 'fairly good'}	75	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	29.824517204020157	91	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	92	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	93	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	94	Car	case2
+0.43100000000000005	0.521	0.6148	1.5668000000000002	0.13805395480000002	{'CD player': 'good', 'Extra speakers': 'standard', 'Airconditioning': 'none', 'Tow hedge': 'good', 'Tow hedge2': 'none', 'Tow hedge3': 'meager'}	78	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	6.88779804536824	95	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	96	Car	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	0.6	97	Car	case2
+0.7308000000000001	0.471	0.9396000000000001	2.1414	0.32341670928000005	{'CD player': 'meager', 'Extra speakers': 'good', 'Airconditioning': 'standard', 'Tow hedge': 'standard', 'Tow hedge2': 'fairly good', 'Tow hedge3': 'good'}	79	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	28.551762641760295	98	Car	case2
+0.9428000000000001	0.6505000000000001	0.9131	2.5064	0.5599963773400002	{'CD player': 'meager', 'Extra speakers': 'standard', 'Airconditioning': 'standard', 'Tow hedge': 'standard', 'Tow hedge2': 'standard', 'Tow hedge3': 'standard'}	75	neutral	scripted-Boulware	scripted-Conceder	scripted	scripted	76.46723711000261	99	Car	case2

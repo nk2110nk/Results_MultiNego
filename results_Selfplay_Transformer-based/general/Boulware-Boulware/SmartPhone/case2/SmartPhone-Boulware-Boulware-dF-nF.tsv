@@ -1,0 +1,101 @@
+my_util	opp_util1	opp_util2	social	nash	agreement	step	style	opponent1_id	opponent2_id	opponent1_source	opponent2_source	negotiation_score	seed	domain	case
+0.1789305865198619	0.5293838862559243	0.3544527123633871	1.0627671851391733	0.0335748133780071	{'Maker': 'Nokia', 'Screen Size': '2.4', 'Color': 'White', 'Carrier': 'Sprint Nextel', 'OS': 'iOS', ' Accessory': 'Good Battery'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	1.8796132523196958	0	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	1	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	2	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	3	SmartPhone	case2
+0.1789305865198619	0.5293838862559243	0.3544527123633871	1.0627671851391733	0.0335748133780071	{'Maker': 'Nokia', 'Screen Size': '2.4', 'Color': 'White', 'Carrier': 'Sprint Nextel', 'OS': 'iOS', ' Accessory': 'Good Battery'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	1.8796132523196958	4	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	5	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	6	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	7	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	8	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	9	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	10	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	11	SmartPhone	case2
+0.8713535744392942	0.5383886255924172	0.7079629349309712	2.1177051349626823	0.3321244239507648	{'Maker': 'Apple', 'Screen Size': '3.0', 'Color': 'Black', 'Carrier': 'Verizon Wireless', 'OS': 'Android', ' Accessory': 'Water Proof'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	54.90771029193799	12	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	13	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	14	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	15	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	16	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	17	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	18	SmartPhone	case2
+0.1789305865198619	0.5293838862559243	0.3544527123633871	1.0627671851391733	0.0335748133780071	{'Maker': 'Nokia', 'Screen Size': '2.4', 'Color': 'White', 'Carrier': 'Sprint Nextel', 'OS': 'iOS', ' Accessory': 'Good Battery'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	1.8796132523196958	19	SmartPhone	case2
+0.1789305865198619	0.5293838862559243	0.3544527123633871	1.0627671851391733	0.0335748133780071	{'Maker': 'Nokia', 'Screen Size': '2.4', 'Color': 'White', 'Carrier': 'Sprint Nextel', 'OS': 'iOS', ' Accessory': 'Good Battery'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	1.8796132523196958	20	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	21	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	22	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	23	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	24	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	25	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	26	SmartPhone	case2
+0.1789305865198619	0.5293838862559243	0.3544527123633871	1.0627671851391733	0.0335748133780071	{'Maker': 'Nokia', 'Screen Size': '2.4', 'Color': 'White', 'Carrier': 'Sprint Nextel', 'OS': 'iOS', ' Accessory': 'Good Battery'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	1.8796132523196958	27	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	28	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	29	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	30	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	31	SmartPhone	case2
+0.1789305865198619	0.5293838862559243	0.3544527123633871	1.0627671851391733	0.0335748133780071	{'Maker': 'Nokia', 'Screen Size': '2.4', 'Color': 'White', 'Carrier': 'Sprint Nextel', 'OS': 'iOS', ' Accessory': 'Good Battery'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	1.8796132523196958	32	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	33	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	34	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	35	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	36	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	37	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	38	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	39	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	40	SmartPhone	case2
+0.1789305865198619	0.5293838862559243	0.3544527123633871	1.0627671851391733	0.0335748133780071	{'Maker': 'Nokia', 'Screen Size': '2.4', 'Color': 'White', 'Carrier': 'Sprint Nextel', 'OS': 'iOS', ' Accessory': 'Good Battery'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	1.8796132523196958	41	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	42	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	43	SmartPhone	case2
+0.1789305865198619	0.5293838862559243	0.3544527123633871	1.0627671851391733	0.0335748133780071	{'Maker': 'Nokia', 'Screen Size': '2.4', 'Color': 'White', 'Carrier': 'Sprint Nextel', 'OS': 'iOS', ' Accessory': 'Good Battery'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	1.8796132523196958	44	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	45	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	46	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	47	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	48	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	49	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	50	SmartPhone	case2
+0.1789305865198619	0.5293838862559243	0.3544527123633871	1.0627671851391733	0.0335748133780071	{'Maker': 'Nokia', 'Screen Size': '2.4', 'Color': 'White', 'Carrier': 'Sprint Nextel', 'OS': 'iOS', ' Accessory': 'Good Battery'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	1.8796132523196958	51	SmartPhone	case2
+0.1789305865198619	0.5293838862559243	0.3544527123633871	1.0627671851391733	0.0335748133780071	{'Maker': 'Nokia', 'Screen Size': '2.4', 'Color': 'White', 'Carrier': 'Sprint Nextel', 'OS': 'iOS', ' Accessory': 'Good Battery'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	1.8796132523196958	52	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	53	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	54	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	55	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	56	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	57	SmartPhone	case2
+0.1789305865198619	0.5293838862559243	0.3544527123633871	1.0627671851391733	0.0335748133780071	{'Maker': 'Nokia', 'Screen Size': '2.4', 'Color': 'White', 'Carrier': 'Sprint Nextel', 'OS': 'iOS', ' Accessory': 'Good Battery'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	1.8796132523196958	58	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	59	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	60	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	61	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	62	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	63	SmartPhone	case2
+0.2559288501347527	0.8	0.3725628460925757	1.4284916962273284	0.076279664642723	{'Maker': 'Sony', 'Screen Size': '3.6', 'Color': 'Red', 'Carrier': 'AT and T Mobility', 'OS': 'Android', ' Accessory': 'Water Proof'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	2.859807976280685	64	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	65	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	66	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	67	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	68	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	69	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	70	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	71	SmartPhone	case2
+0.1789305865198619	0.5293838862559243	0.3544527123633871	1.0627671851391733	0.0335748133780071	{'Maker': 'Nokia', 'Screen Size': '2.4', 'Color': 'White', 'Carrier': 'Sprint Nextel', 'OS': 'iOS', ' Accessory': 'Good Battery'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	1.8796132523196958	72	SmartPhone	case2
+0.1789305865198619	0.5293838862559243	0.3544527123633871	1.0627671851391733	0.0335748133780071	{'Maker': 'Nokia', 'Screen Size': '2.4', 'Color': 'White', 'Carrier': 'Sprint Nextel', 'OS': 'iOS', ' Accessory': 'Good Battery'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	1.8796132523196958	73	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	74	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	75	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	76	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	77	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	78	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	79	SmartPhone	case2
+0.1789305865198619	0.5293838862559243	0.3544527123633871	1.0627671851391733	0.0335748133780071	{'Maker': 'Nokia', 'Screen Size': '2.4', 'Color': 'White', 'Carrier': 'Sprint Nextel', 'OS': 'iOS', ' Accessory': 'Good Battery'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	1.8796132523196958	80	SmartPhone	case2
+0.1789305865198619	0.5293838862559243	0.3544527123633871	1.0627671851391733	0.0335748133780071	{'Maker': 'Nokia', 'Screen Size': '2.4', 'Color': 'White', 'Carrier': 'Sprint Nextel', 'OS': 'iOS', ' Accessory': 'Good Battery'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	1.8796132523196958	81	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	82	SmartPhone	case2
+0.1789305865198619	0.5293838862559243	0.3544527123633871	1.0627671851391733	0.0335748133780071	{'Maker': 'Nokia', 'Screen Size': '2.4', 'Color': 'White', 'Carrier': 'Sprint Nextel', 'OS': 'iOS', ' Accessory': 'Good Battery'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	1.8796132523196958	83	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	84	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	85	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	86	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	87	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	88	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	89	SmartPhone	case2
+0.3571618500390566	0.6876777251184835	0.6817789071119976	1.7266184822695378	0.16745325037880862	{'Maker': 'Sony', 'Screen Size': '3.2', 'Color': 'Black', 'Carrier': 'T-Mobile USA', 'OS': 'Android', ' Accessory': 'Camera'}	75	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	4.804927724486481	90	SmartPhone	case2
+0.1789305865198619	0.5293838862559243	0.3544527123633871	1.0627671851391733	0.0335748133780071	{'Maker': 'Nokia', 'Screen Size': '2.4', 'Color': 'White', 'Carrier': 'Sprint Nextel', 'OS': 'iOS', ' Accessory': 'Good Battery'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	1.8796132523196958	91	SmartPhone	case2
+0.1789305865198619	0.5293838862559243	0.3544527123633871	1.0627671851391733	0.0335748133780071	{'Maker': 'Nokia', 'Screen Size': '2.4', 'Color': 'White', 'Carrier': 'Sprint Nextel', 'OS': 'iOS', ' Accessory': 'Good Battery'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	1.8796132523196958	92	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	93	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	94	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	95	SmartPhone	case2
+0.1789305865198619	0.5293838862559243	0.3544527123633871	1.0627671851391733	0.0335748133780071	{'Maker': 'Nokia', 'Screen Size': '2.4', 'Color': 'White', 'Carrier': 'Sprint Nextel', 'OS': 'iOS', ' Accessory': 'Good Battery'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	1.8796132523196958	96	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	97	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	98	SmartPhone	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	99	SmartPhone	case2

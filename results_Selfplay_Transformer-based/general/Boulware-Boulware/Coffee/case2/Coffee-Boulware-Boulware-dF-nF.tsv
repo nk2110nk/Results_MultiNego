@@ -1,0 +1,101 @@
+my_util	opp_util1	opp_util2	social	nash	agreement	step	style	opponent1_id	opponent2_id	opponent1_source	opponent2_source	negotiation_score	seed	domain	case
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	0	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	1	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	2	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	3	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	4	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	5	Coffee	case2
+0.29264246253675325	0.9119999999999999	0.7116471265198538	1.916289589056607	0.18993144881652066	{'Bean': 'Blue Mountain', 'Sugar': 'some', 'Milk': 'much'}	72	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	3.488441817416567	6	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	7	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	8	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	9	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	10	Coffee	case2
+0.6796267662350224	0.758	0.3558235632599269	1.7934503294949493	0.18330503097761383	{'Bean': 'Santos', 'Sugar': 'little', 'Milk': 'some'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	22.469334799825955	11	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	12	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	13	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	14	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	15	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	16	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	17	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	18	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	19	Coffee	case2
+0.6796267662350224	0.758	0.3558235632599269	1.7934503294949493	0.18330503097761383	{'Bean': 'Santos', 'Sugar': 'little', 'Milk': 'some'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	22.469334799825955	20	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	21	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	22	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	23	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	24	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	25	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	26	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	27	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	28	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	29	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	30	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	31	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	32	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	33	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	34	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.780953933355816	35	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	36	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	37	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	38	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	39	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	40	Coffee	case2
+0.6796267662350224	0.758	0.3558235632599269	1.7934503294949493	0.18330503097761383	{'Bean': 'Santos', 'Sugar': 'little', 'Milk': 'some'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	22.469334799825955	41	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	72	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.810953933355817	42	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	43	Coffee	case2
+0.5591506013605964	0.76	0.9242498794694851	2.243400480830082	0.39276410569374415	{'Bean': 'Uganda', 'Sugar': 'much', 'Milk': 'much'}	75	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	12.756102842214338	44	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	45	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	46	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	72	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.810953933355817	47	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	48	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	49	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	50	Coffee	case2
+0.6796267662350224	0.758	0.3558235632599269	1.7934503294949493	0.18330503097761383	{'Bean': 'Santos', 'Sugar': 'little', 'Milk': 'some'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	22.469334799825955	51	Coffee	case2
+0.4482110859342133	0.8260000000000001	0.9494999196463234	2.2237110055805367	0.35152609820535885	{'Bean': 'Paname', 'Sugar': 'much', 'Milk': 'much'}	72	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	7.518112383818734	52	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	53	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	54	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	55	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	56	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	57	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	58	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	72	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.810953933355817	59	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	60	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	61	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	62	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	72	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.810953933355817	63	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	64	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	65	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	66	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	67	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	68	Coffee	case2
+0.37783374454086427	0.8320000000000001	0.8262279337454036	2.0360616782862677	0.25973109265067074	{'Bean': 'Colombian', 'Sugar': 'much', 'Milk': 'some'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	5.307279018100002	69	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	70	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	71	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	72	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	73	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	74	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	75	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	76	Coffee	case2
+0.6796267662350224	0.758	0.3558235632599269	1.7934503294949493	0.18330503097761383	{'Bean': 'Santos', 'Sugar': 'little', 'Milk': 'some'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	22.469334799825955	77	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	78	Coffee	case2
+0.6419650400113743	0.52	0.7014668403528479	1.8634318803642222	0.23416493788155954	{'Bean': 'Uganda', 'Sugar': 'much', 'Milk': 'little'}	79	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	18.83282142415027	79	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	80	Coffee	case2
+0.6796267662350224	0.758	0.3558235632599269	1.7934503294949493	0.18330503097761383	{'Bean': 'Santos', 'Sugar': 'little', 'Milk': 'some'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	22.469334799825955	81	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	82	Coffee	case2
+0.5591506013605964	0.76	0.9242498794694851	2.243400480830082	0.39276410569374415	{'Bean': 'Uganda', 'Sugar': 'much', 'Milk': 'much'}	75	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	12.756102842214338	83	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	84	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	85	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	72	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.810953933355817	86	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	87	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	88	Coffee	case2
+0.4035819779631364	1.0	0.6863970863430156	2.089979064306152	0.2770174937744479	{'Bean': 'Colombian', 'Sugar': 'some', 'Milk': 'much'}	75	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	6.039516933087959	89	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	90	Coffee	case2
+0.6796267662350224	0.758	0.3558235632599269	1.7934503294949493	0.18330503097761383	{'Bean': 'Santos', 'Sugar': 'little', 'Milk': 'some'}	80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	22.469334799825955	91	Coffee	case2
+0.4482110859342133	0.8260000000000001	0.9494999196463234	2.2237110055805367	0.35152609820535885	{'Bean': 'Paname', 'Sugar': 'much', 'Milk': 'much'}	72	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	7.518112383818734	92	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	93	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	94	Coffee	case2
+0.29264246253675325	0.9119999999999999	0.7116471265198538	1.916289589056607	0.18993144881652066	{'Bean': 'Blue Mountain', 'Sugar': 'some', 'Milk': 'much'}	72	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	3.488441817416567	95	Coffee	case2
+0.6419650400113743	0.52	0.7014668403528479	1.8634318803642222	0.23416493788155954	{'Bean': 'Uganda', 'Sugar': 'much', 'Milk': 'little'}	79	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	18.83282142415027	96	Coffee	case2
+0.5036808436474048	0.782	0.9368748995579043	2.222555743205309	0.36901480492469707	{'Bean': 'Santos', 'Sugar': 'much', 'Milk': 'much'}	73	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.805953933355816	97	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	98	Coffee	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	99	Coffee	case2
