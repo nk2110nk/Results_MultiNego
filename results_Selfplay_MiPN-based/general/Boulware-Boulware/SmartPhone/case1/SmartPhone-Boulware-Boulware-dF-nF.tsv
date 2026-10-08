@@ -1,0 +1,101 @@
+my_util	opp_util1	opp_util2	social	nash	agreement	step	style	opponent1_id	opponent2_id	opponent1_source	opponent2_source	negotiation_score	seed	domain	case
+0.5927217829164212	0.6767293418995916	0.5632	1.8326511248160129	0.22590640347691035	{'Maker': 'Apple', 'Screen Size': '3.0', 'Color': 'White', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Blue tooth'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	14.936520337631888	0	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	1	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	2	SmartPhone	case1
+0.5927217829164212	0.6767293418995916	0.5632	1.8326511248160129	0.22590640347691035	{'Maker': 'Apple', 'Screen Size': '3.0', 'Color': 'White', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Blue tooth'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	14.936520337631888	3	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	4	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	5	SmartPhone	case1
+0.6569054877207934	0.4801775439141862	0.4977142857142858	1.6347973173492654	0.15699464609321198	{'Maker': 'Sony', 'Screen Size': '2.8', 'Color': 'Black', 'Carrier': 'T-Mobile USA', 'OS': 'Android', ' Accessory': 'Blue tooth'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	20.207332292874906	6	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	7	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	8	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	9	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	10	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	11	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	12	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	13	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	14	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	15	SmartPhone	case1
+0.8947655081393668	0.6741170672960429	0.6937142857142858	2.262596861149696	0.41843229378353164	{'Maker': 'Samson', 'Screen Size': '3.6', 'Color': 'Black', 'Carrier': 'AT and T Mobility', 'OS': 'iOS', ' Accessory': 'Camera'}	75	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	61.217951576536144	16	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	17	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	18	SmartPhone	case1
+0.651149635195466	0.6548878028094334	0.49691428571428575	1.8029517237191852	0.2118991359460763	{'Maker': 'Samson', 'Screen Size': '3.0', 'Color': 'White', 'Carrier': 'AT and T Mobility', 'OS': 'iOS', ' Accessory': 'Blue tooth'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	19.668537761249222	19	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	20	SmartPhone	case1
+0.945744957180106	0.6993708158980259	0.6880000000000002	2.333115773078132	0.45506137856613216	{'Maker': 'Apple', 'Screen Size': '3.6', 'Color': 'Black', 'Carrier': 'AT and T Mobility', 'OS': 'iOS', ' Accessory': 'Camera'}	75	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	77.51647255728204	21	SmartPhone	case1
+0.6893631918079945	0.7160185708191068	0.6592000000000001	2.0645817626271015	0.32537904178871546	{'Maker': 'Apple', 'Screen Size': '3.6', 'Color': 'White', 'Carrier': 'AT and T Mobility', 'OS': 'iOS', ' Accessory': 'Blue tooth'}	75	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	23.543083825206313	22	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	23	SmartPhone	case1
+0.5417423338756823	0.6514755932976087	0.5689142857142857	1.7621322128875767	0.20078800455956372	{'Maker': 'Samson', 'Screen Size': '3.0', 'Color': 'White', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Blue tooth'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	11.729499015740503	24	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	25	SmartPhone	case1
+0.5417423338756823	0.6514755932976087	0.5689142857142857	1.7621322128875767	0.20078800455956372	{'Maker': 'Samson', 'Screen Size': '3.0', 'Color': 'White', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Blue tooth'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	11.729499015740503	26	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	27	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	28	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	29	SmartPhone	case1
+0.5417423338756823	0.6514755932976087	0.5689142857142857	1.7621322128875767	0.20078800455956372	{'Maker': 'Samson', 'Screen Size': '3.0', 'Color': 'White', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Blue tooth'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	11.729499015740503	30	SmartPhone	case1
+0.651149635195466	0.6548878028094334	0.49691428571428575	1.8029517237191852	0.2118991359460763	{'Maker': 'Samson', 'Screen Size': '3.0', 'Color': 'White', 'Carrier': 'AT and T Mobility', 'OS': 'iOS', ' Accessory': 'Blue tooth'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	19.668537761249222	31	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	32	SmartPhone	case1
+0.5261127194014275	0.7521357738964357	0.5209142857142858	1.799162779012149	0.20613005298102596	{'Maker': 'Samson', 'Screen Size': '3.0', 'Color': 'White', 'Carrier': 'AT and T Mobility', 'OS': 'Android', ' Accessory': 'Blue tooth'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	10.887827272793201	33	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	34	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	35	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	36	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	37	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	38	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	39	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	40	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	41	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	42	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	43	SmartPhone	case1
+0.6383837427672554	0.6907648222171239	0.6649142857142858	1.994062850698665	0.29320926897647864	{'Maker': 'Samson', 'Screen Size': '3.6', 'Color': 'White', 'Carrier': 'AT and T Mobility', 'OS': 'iOS', ' Accessory': 'Blue tooth'}	75	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	18.538307586604834	44	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	45	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	46	SmartPhone	case1
+0.5417423338756823	0.6514755932976087	0.5689142857142857	1.7621322128875767	0.20078800455956372	{'Maker': 'Samson', 'Screen Size': '3.0', 'Color': 'White', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Blue tooth'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	11.729499015740503	47	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	48	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	49	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	50	SmartPhone	case1
+0.945744957180106	0.6993708158980259	0.6880000000000002	2.333115773078132	0.45506137856613216	{'Maker': 'Apple', 'Screen Size': '3.6', 'Color': 'Black', 'Carrier': 'AT and T Mobility', 'OS': 'iOS', ' Accessory': 'Camera'}	75	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	77.51647255728204	51	SmartPhone	case1
+0.6383837427672554	0.6907648222171239	0.6649142857142858	1.994062850698665	0.29320926897647864	{'Maker': 'Samson', 'Screen Size': '3.6', 'Color': 'White', 'Carrier': 'AT and T Mobility', 'OS': 'iOS', ' Accessory': 'Blue tooth'}	75	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	18.538307586604834	52	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	53	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	54	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	55	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	56	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	57	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	58	SmartPhone	case1
+0.20954753399188153	0.43164617081153944	0.5672	1.208393704803421	0.05130346157701838	{'Maker': 'Samson', 'Screen Size': '3.2', 'Color': 'Red', 'Carrier': 'T-Mobile USA', 'OS': 'Windows Mobile', ' Accessory': 'Infrared communication'}	79	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	2.229793053271216	59	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	60	SmartPhone	case1
+0.5417423338756823	0.6514755932976087	0.5689142857142857	1.7621322128875767	0.20078800455956372	{'Maker': 'Samson', 'Screen Size': '3.0', 'Color': 'White', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Blue tooth'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	11.729499015740503	61	SmartPhone	case1
+0.5059009201652562	0.6472435494894271	0.5774857142857143	1.7306301839403977	0.1890925617112341	{'Maker': 'Apple', 'Screen Size': '3.0', 'Color': 'White', 'Carrier': 'T-Mobile USA', 'OS': 'Black Berry', ' Accessory': 'Blue tooth'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	9.885473423585374	62	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	63	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	64	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	65	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	66	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	67	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	68	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	69	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	70	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	71	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	72	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	73	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	74	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	75	SmartPhone	case1
+0.5417423338756823	0.6514755932976087	0.5689142857142857	1.7621322128875767	0.20078800455956372	{'Maker': 'Samson', 'Screen Size': '3.0', 'Color': 'White', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Blue tooth'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	11.729499015740503	76	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	77	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	78	SmartPhone	case1
+0.5417423338756823	0.6514755932976087	0.5689142857142857	1.7621322128875767	0.20078800455956372	{'Maker': 'Samson', 'Screen Size': '3.0', 'Color': 'White', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Blue tooth'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	11.729499015740503	79	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	80	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	81	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	82	SmartPhone	case1
+0.5417423338756823	0.6514755932976087	0.5689142857142857	1.7621322128875767	0.20078800455956372	{'Maker': 'Samson', 'Screen Size': '3.0', 'Color': 'White', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Blue tooth'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	11.729499015740503	83	SmartPhone	case1
+0.5417423338756823	0.6514755932976087	0.5689142857142857	1.7621322128875767	0.20078800455956372	{'Maker': 'Samson', 'Screen Size': '3.0', 'Color': 'White', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Blue tooth'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	11.729499015740503	84	SmartPhone	case1
+0.5417423338756823	0.6514755932976087	0.5689142857142857	1.7621322128875767	0.20078800455956372	{'Maker': 'Samson', 'Screen Size': '3.0', 'Color': 'White', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Blue tooth'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	11.729499015740503	85	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	86	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	87	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	88	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	89	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	90	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	91	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	92	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	93	SmartPhone	case1
+0.5261127194014275	0.7521357738964357	0.5209142857142858	1.799162779012149	0.20613005298102596	{'Maker': 'Samson', 'Screen Size': '3.0', 'Color': 'White', 'Carrier': 'AT and T Mobility', 'OS': 'Android', ' Accessory': 'Blue tooth'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	10.887827272793201	94	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	95	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	96	SmartPhone	case1
+0.5334433537992829	0.5252068502876943	0.6289142857142858	1.687564489801263	0.17620172279062948	{'Maker': 'HTC', 'Screen Size': '3.0', 'Color': 'White', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Blue tooth'}	78	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	11.275052765073621	97	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	98	SmartPhone	case1
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Boulware	scripted	scripted	0.6	99	SmartPhone	case1

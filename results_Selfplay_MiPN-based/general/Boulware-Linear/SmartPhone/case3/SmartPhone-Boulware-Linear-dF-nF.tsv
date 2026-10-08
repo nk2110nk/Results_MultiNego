@@ -1,0 +1,101 @@
+my_util	opp_util1	opp_util2	social	nash	agreement	step	style	opponent1_id	opponent2_id	opponent1_source	opponent2_source	negotiation_score	seed	domain	case
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	0	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	1	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	2	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	3	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	4	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	5	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	6	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	7	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	8	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	9	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	10	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	11	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	12	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	13	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	14	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	15	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	16	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	17	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	18	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	19	SmartPhone	case3
+0.8588571428571429	0.4863437425769207	0.20282150721813214	1.5480223926521957	0.08471850243201381	{'Maker': 'Black Berry', 'Screen Size': '3.2', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	51.81526272579809	20	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	21	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	22	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	23	SmartPhone	case3
+0.9411428571428572	0.4562382086598442	0.24608438169045516	1.6434654474931565	0.10566502374412907	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Windows Mobile', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	75.86805326265802	24	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	25	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	26	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	27	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	28	SmartPhone	case3
+0.8731428571428572	0.47685919391817855	0.20913494436862784	1.5591369954296637	0.0870767218716511	{'Maker': 'Nokia', 'Screen Size': '3.2', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	55.36524317068944	29	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	30	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	31	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	32	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	33	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	34	SmartPhone	case3
+0.8588571428571429	0.4863437425769207	0.20282150721813214	1.5480223926521957	0.08471850243201381	{'Maker': 'Black Berry', 'Screen Size': '3.2', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	51.81526272579809	35	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	36	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	37	SmartPhone	case3
+0.8588571428571429	0.4863437425769207	0.20282150721813214	1.5480223926521957	0.08471850243201381	{'Maker': 'Black Berry', 'Screen Size': '3.2', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	51.81526272579809	38	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	39	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	40	SmartPhone	case3
+0.8588571428571429	0.4863437425769207	0.20282150721813214	1.5480223926521957	0.08471850243201381	{'Maker': 'Black Berry', 'Screen Size': '3.2', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	51.81526272579809	41	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	42	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	43	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	44	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	45	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	46	SmartPhone	case3
+0.9411428571428572	0.4562382086598442	0.24608438169045516	1.6434654474931565	0.10566502374412907	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Windows Mobile', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	75.86805326265802	47	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	48	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	49	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	50	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	51	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	52	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	53	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	54	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	55	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	56	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	57	SmartPhone	case3
+0.9411428571428572	0.4562382086598442	0.24608438169045516	1.6434654474931565	0.10566502374412907	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Windows Mobile', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	75.86805326265802	58	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	59	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	60	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	61	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	62	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	63	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	64	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	65	SmartPhone	case3
+0.9411428571428572	0.4562382086598442	0.24608438169045516	1.6434654474931565	0.10566502374412907	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Windows Mobile', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	75.86805326265802	66	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	67	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	68	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	69	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	70	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	71	SmartPhone	case3
+0.8731428571428572	0.47685919391817855	0.20913494436862784	1.5591369954296637	0.0870767218716511	{'Maker': 'Nokia', 'Screen Size': '3.2', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	55.36524317068944	72	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	73	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	74	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	75	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	76	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	77	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	78	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	79	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	80	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	81	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	82	SmartPhone	case3
+0.9411428571428572	0.4562382086598442	0.24608438169045516	1.6434654474931565	0.10566502374412907	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Windows Mobile', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	75.86805326265802	83	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	84	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	85	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	86	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	87	SmartPhone	case3
+0.9411428571428572	0.4562382086598442	0.24608438169045516	1.6434654474931565	0.10566502374412907	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Windows Mobile', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	75.86805326265802	88	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	89	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	90	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	91	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	92	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	93	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	94	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	95	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	96	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	97	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	98	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	99	SmartPhone	case3

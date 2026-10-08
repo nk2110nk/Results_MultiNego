@@ -1,0 +1,101 @@
+my_util	opp_util1	opp_util2	social	nash	agreement	step	style	opponent1_id	opponent2_id	opponent1_source	opponent2_source	negotiation_score	seed	domain	case
+0.9571428571428572	0.48749743760835385	0.2494965912022798	1.6941368859534909	0.11641627966442478	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	81.6991415963825	0	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	1	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	2	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	3	SmartPhone	case3
+0.8588571428571429	0.4863437425769207	0.20282150721813214	1.5480223926521957	0.08471850243201381	{'Maker': 'Black Berry', 'Screen Size': '3.2', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	51.81526272579809	4	SmartPhone	case3
+0.8451428571428572	0.5412601186519278	0.22834645956896915	1.6147494353637541	0.10445528927558333	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Camera'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	48.6201141784174	5	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	6	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	7	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	8	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	9	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	10	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	11	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	12	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	13	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	14	SmartPhone	case3
+0.8594285714285715	0.45443925590076295	0.1988606671588047	1.5127284944881392	0.07766664045246346	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Silver', 'Carrier': 'T-Mobile USA', 'OS': 'Black Berry', ' Accessory': 'Camera'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	51.952823140138534	15	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	16	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	17	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	18	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	19	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	20	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	21	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	22	SmartPhone	case3
+0.9554285714285715	0.579304258799145	0.27734237692908237	1.812075207156799	0.1535045238903017	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Blue', 'Carrier': 'T-Mobile USA', 'OS': 'Black Berry', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	81.05363386723835	23	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	24	SmartPhone	case3
+0.9571428571428572	0.48749743760835385	0.2494965912022798	1.6941368859534909	0.11641627966442478	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	81.6991415963825	25	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	26	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	27	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	28	SmartPhone	case3
+0.4308571428571428	0.8450518946191414	0.43135567668883545	1.7072647141651198	0.15705515463304523	{'Maker': 'Black Berry', 'Screen Size': '2.8', 'Color': 'Black', 'Carrier': 'AT and T Mobility', 'OS': 'iOS', ' Accessory': 'Blue tooth'}	70	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	6.923011691599249	29	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	30	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	31	SmartPhone	case3
+0.8731428571428572	0.46061609708656687	0.20719632793565854	1.5409552821650827	0.08333097648337721	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Water Proof'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	55.36524317068944	32	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	33	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	34	SmartPhone	case3
+0.9251428571428572	0.4994749654869092	0.204877118851317	1.6294949414810833	0.09467078619039394	{'Maker': 'Black Berry', 'Screen Size': '3.6', 'Color': 'White', 'Carrier': 'T-Mobile USA', 'OS': 'Black Berry', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	70.45116820228336	35	SmartPhone	case3
+0.9571428571428572	0.48749743760835385	0.2494965912022798	1.6941368859534909	0.11641627966442478	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	81.6991415963825	36	SmartPhone	case3
+0.9571428571428572	0.48749743760835385	0.2494965912022798	1.6941368859534909	0.11641627966442478	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	81.6991415963825	37	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	38	SmartPhone	case3
+0.7760000000000001	0.6874812525753587	0.5857055715074184	2.0491868240827773	0.3124654015536623	{'Maker': 'Apple', 'Screen Size': '3.6', 'Color': 'White', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Camera'}	75	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	35.27011334262442	39	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	40	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	41	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	42	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	43	SmartPhone	case3
+0.9571428571428572	0.48749743760835385	0.2494965912022798	1.6941368859534909	0.11641627966442478	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	81.6991415963825	44	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	45	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	46	SmartPhone	case3
+0.9571428571428572	0.48749743760835385	0.2494965912022798	1.6941368859534909	0.11641627966442478	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	81.6991415963825	47	SmartPhone	case3
+0.6817142857142857	0.7747199631294079	0.6303432109505663	2.08677745979426	0.33290799239529656	{'Maker': 'Samson', 'Screen Size': '3.2', 'Color': 'Black', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Camera'}	72	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	22.730246615613446	48	SmartPhone	case3
+0.8594285714285715	0.45443925590076295	0.1988606671588047	1.5127284944881392	0.07766664045246346	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Silver', 'Carrier': 'T-Mobile USA', 'OS': 'Black Berry', ' Accessory': 'Camera'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	51.952823140138534	49	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	50	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	51	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	52	SmartPhone	case3
+0.9571428571428572	0.48749743760835385	0.2494965912022798	1.6941368859534909	0.11641627966442478	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	81.6991415963825	53	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	54	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	55	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	56	SmartPhone	case3
+0.9571428571428572	0.48749743760835385	0.2494965912022798	1.6941368859534909	0.11641627966442478	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	81.6991415963825	57	SmartPhone	case3
+0.9571428571428572	0.48749743760835385	0.2494965912022798	1.6941368859534909	0.11641627966442478	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	81.6991415963825	58	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	59	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	60	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	61	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	62	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	63	SmartPhone	case3
+0.9571428571428572	0.48749743760835385	0.2494965912022798	1.6941368859534909	0.11641627966442478	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	81.6991415963825	64	SmartPhone	case3
+0.8251428571428572	0.7150294391741201	0.310567736457108	1.8507400327740853	0.1832354099822747	{'Maker': 'Nokia', 'Screen Size': '3.2', 'Color': 'Black', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	44.307755368787426	65	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	66	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	67	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	68	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	69	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	70	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	71	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	72	SmartPhone	case3
+0.9571428571428572	0.48749743760835385	0.2494965912022798	1.6941368859534909	0.11641627966442478	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	81.6991415963825	73	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	74	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	75	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	76	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	77	SmartPhone	case3
+0.4308571428571428	0.8450518946191414	0.43135567668883545	1.7072647141651198	0.15705515463304523	{'Maker': 'Black Berry', 'Screen Size': '2.8', 'Color': 'Black', 'Carrier': 'AT and T Mobility', 'OS': 'iOS', ' Accessory': 'Blue tooth'}	70	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	6.923011691599249	78	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	79	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	80	SmartPhone	case3
+0.8714285714285714	0.5524229182773581	0.23504211366246114	1.6588936033683908	0.11314859530281732	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Blue', 'Carrier': 'T-Mobile USA', 'OS': 'Black Berry', ' Accessory': 'Water Proof'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	54.92681197617223	81	SmartPhone	case3
+0.8731428571428572	0.46061609708656687	0.20719632793565854	1.5409552821650827	0.08333097648337721	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Water Proof'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	55.36524317068944	82	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	83	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	84	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	85	SmartPhone	case3
+0.9394285714285715	0.489990416828167	0.21119055600181275	1.6406095442585513	0.09721333545239026	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'White', 'Carrier': 'T-Mobile USA', 'OS': 'Black Berry', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	75.26839827987646	86	SmartPhone	case3
+0.9571428571428572	0.48749743760835385	0.2494965912022798	1.6941368859534909	0.11641627966442478	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	81.6991415963825	87	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	88	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	89	SmartPhone	case3
+0.9571428571428572	0.48749743760835385	0.2494965912022798	1.6941368859534909	0.11641627966442478	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	81.6991415963825	90	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	91	SmartPhone	case3
+0.7645714285714286	0.480886927571179	0.26727006571347234	1.51272842185608	0.09826782789734345	{'Maker': 'Black Berry', 'Screen Size': '3.6', 'Color': 'White', 'Carrier': 'Verizon Wireless', 'OS': 'Black Berry', ' Accessory': 'Camera'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	33.427605779082064	92	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	93	SmartPhone	case3
+0.9571428571428572	0.48749743760835385	0.2494965912022798	1.6941368859534909	0.11641627966442478	{'Maker': 'Nokia', 'Screen Size': '3.6', 'Color': 'Silver', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Good Battery'}	78	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	81.6991415963825	94	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	95	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	96	SmartPhone	case3
+0.7760000000000001	0.6874812525753587	0.5857055715074184	2.0491868240827773	0.3124654015536623	{'Maker': 'Apple', 'Screen Size': '3.6', 'Color': 'White', 'Carrier': 'AT and T Mobility', 'OS': 'Black Berry', ' Accessory': 'Camera'}	75	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	35.27011334262442	97	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	98	SmartPhone	case3
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Atlas3	scripted	scripted	0.6	99	SmartPhone	case3

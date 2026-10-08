@@ -1,0 +1,101 @@
+my_util	opp_util1	opp_util2	social	nash	agreement	step	style	opponent1_id	opponent2_id	opponent1_source	opponent2_source	negotiation_score	seed	domain	case
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	0	Camera	case2
+0.5574285714285715	0.5189262371615313	0.12155180481283423	1.197906613402937	0.03516059907701138	{'Maker': 'Sony', 'Body': 'compact', 'Lens': 'Middle range model', 'Tripod': 'Manfrotto', 'Bag': 'Artizan and Artist', 'Accessory': 'Strap'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	12.637381843189468	1	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	2	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	3	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	4	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	5	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	6	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	7	Camera	case2
+0.5574285714285715	0.5189262371615313	0.12155180481283423	1.197906613402937	0.03516059907701138	{'Maker': 'Sony', 'Body': 'compact', 'Lens': 'Middle range model', 'Tripod': 'Manfrotto', 'Bag': 'Artizan and Artist', 'Accessory': 'Strap'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	12.637381843189468	8	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	9	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	10	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	11	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	12	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	13	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	14	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	15	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	16	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	17	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	18	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	19	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	20	Camera	case2
+0.5574285714285715	0.5189262371615313	0.12155180481283423	1.197906613402937	0.03516059907701138	{'Maker': 'Sony', 'Body': 'compact', 'Lens': 'Middle range model', 'Tripod': 'Manfrotto', 'Bag': 'Artizan and Artist', 'Accessory': 'Strap'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	12.637381843189468	21	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	22	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	23	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	24	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	25	Camera	case2
+0.5574285714285715	0.5189262371615313	0.12155180481283423	1.197906613402937	0.03516059907701138	{'Maker': 'Sony', 'Body': 'compact', 'Lens': 'Middle range model', 'Tripod': 'Manfrotto', 'Bag': 'Artizan and Artist', 'Accessory': 'Strap'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	12.637381843189468	26	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	27	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	28	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	29	Camera	case2
+0.5888571428571429	0.6935294117647058	0.1255518048128342	1.4079383594346828	0.05127406991579786	{'Maker': 'Sony', 'Body': 'Micro Four Thirds', 'Lens': 'Middle range model', 'Tripod': 'Manfrotto', 'Bag': 'Artizan and Artist', 'Accessory': 'Strap'}	75	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	14.681162233020288	30	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	31	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	32	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	33	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	34	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	35	Camera	case2
+0.5574285714285715	0.5189262371615313	0.12155180481283423	1.197906613402937	0.03516059907701138	{'Maker': 'Sony', 'Body': 'compact', 'Lens': 'Middle range model', 'Tripod': 'Manfrotto', 'Bag': 'Artizan and Artist', 'Accessory': 'Strap'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	12.637381843189468	36	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	37	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	38	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	39	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	40	Camera	case2
+0.5574285714285715	0.5189262371615313	0.12155180481283423	1.197906613402937	0.03516059907701138	{'Maker': 'Sony', 'Body': 'compact', 'Lens': 'Middle range model', 'Tripod': 'Manfrotto', 'Bag': 'Artizan and Artist', 'Accessory': 'Strap'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	12.637381843189468	41	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	42	Camera	case2
+0.5574285714285715	0.5189262371615313	0.12155180481283423	1.197906613402937	0.03516059907701138	{'Maker': 'Sony', 'Body': 'compact', 'Lens': 'Middle range model', 'Tripod': 'Manfrotto', 'Bag': 'Artizan and Artist', 'Accessory': 'Strap'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	12.637381843189468	43	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	44	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	45	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	46	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	47	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	48	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	49	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	50	Camera	case2
+0.5574285714285715	0.5189262371615313	0.12155180481283423	1.197906613402937	0.03516059907701138	{'Maker': 'Sony', 'Body': 'compact', 'Lens': 'Middle range model', 'Tripod': 'Manfrotto', 'Bag': 'Artizan and Artist', 'Accessory': 'Strap'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	12.637381843189468	51	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	52	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	53	Camera	case2
+0.5888571428571429	0.6935294117647058	0.1255518048128342	1.4079383594346828	0.05127406991579786	{'Maker': 'Sony', 'Body': 'Micro Four Thirds', 'Lens': 'Middle range model', 'Tripod': 'Manfrotto', 'Bag': 'Artizan and Artist', 'Accessory': 'Strap'}	75	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	14.681162233020288	54	Camera	case2
+0.5574285714285715	0.5189262371615313	0.12155180481283423	1.197906613402937	0.03516059907701138	{'Maker': 'Sony', 'Body': 'compact', 'Lens': 'Middle range model', 'Tripod': 'Manfrotto', 'Bag': 'Artizan and Artist', 'Accessory': 'Strap'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	12.637381843189468	55	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	56	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	57	Camera	case2
+0.5574285714285715	0.5189262371615313	0.12155180481283423	1.197906613402937	0.03516059907701138	{'Maker': 'Sony', 'Body': 'compact', 'Lens': 'Middle range model', 'Tripod': 'Manfrotto', 'Bag': 'Artizan and Artist', 'Accessory': 'Strap'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	12.637381843189468	58	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	59	Camera	case2
+0.5574285714285715	0.5189262371615313	0.12155180481283423	1.197906613402937	0.03516059907701138	{'Maker': 'Sony', 'Body': 'compact', 'Lens': 'Middle range model', 'Tripod': 'Manfrotto', 'Bag': 'Artizan and Artist', 'Accessory': 'Strap'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	12.637381843189468	60	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	61	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	62	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	63	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	64	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	65	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	66	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	67	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	68	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	69	Camera	case2
+0.5574285714285715	0.5189262371615313	0.12155180481283423	1.197906613402937	0.03516059907701138	{'Maker': 'Sony', 'Body': 'compact', 'Lens': 'Middle range model', 'Tripod': 'Manfrotto', 'Bag': 'Artizan and Artist', 'Accessory': 'Strap'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	12.637381843189468	70	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	71	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	72	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	73	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	74	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	75	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	76	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	77	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	78	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	79	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	80	Camera	case2
+0.5888571428571429	0.6935294117647058	0.1255518048128342	1.4079383594346828	0.05127406991579786	{'Maker': 'Sony', 'Body': 'Micro Four Thirds', 'Lens': 'Middle range model', 'Tripod': 'Manfrotto', 'Bag': 'Artizan and Artist', 'Accessory': 'Strap'}	75	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	14.681162233020288	81	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	82	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	83	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	84	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	85	Camera	case2
+0.5574285714285715	0.5189262371615313	0.12155180481283423	1.197906613402937	0.03516059907701138	{'Maker': 'Sony', 'Body': 'compact', 'Lens': 'Middle range model', 'Tripod': 'Manfrotto', 'Bag': 'Artizan and Artist', 'Accessory': 'Strap'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	12.637381843189468	86	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	87	Camera	case2
+0.5574285714285715	0.5189262371615313	0.12155180481283423	1.197906613402937	0.03516059907701138	{'Maker': 'Sony', 'Body': 'compact', 'Lens': 'Middle range model', 'Tripod': 'Manfrotto', 'Bag': 'Artizan and Artist', 'Accessory': 'Strap'}	78	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	12.637381843189468	88	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	89	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	90	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	91	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	92	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	93	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	94	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	95	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	96	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	97	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	98	Camera	case2
+0.0	0.0	0.0	0.0	0.0		80	neutral	scripted-Boulware	scripted-Linear	scripted	scripted	0.6	99	Camera	case2
